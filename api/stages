@@ -1,0 +1,1668 @@
+[
+ {
+   "world": 1,
+   "number": "1-1",
+   "name": "Beginnia",
+   "level": 1,
+   "course": 0
+ },
+ {
+   "world": 1,
+   "number": "1-2",
+   "name": "Transient Temple",
+   "level": 3,
+   "course": 1
+ },
+ {
+   "world": 2,
+   "number": "2-1",
+   "name": "Nightcloak Pass",
+   "level": 6,
+   "course": 2
+ },
+ {
+   "world": 2,
+   "number": "2-2",
+   "name": "Dashalong Tower",
+   "level": 7,
+   "course": 3
+ },
+ {
+   "world": 2,
+   "number": "2-3",
+   "name": "Disturbance Meadow",
+   "level": 8,
+   "course": 4
+ },
+ {
+   "world": 3,
+   "number": "3-1",
+   "name": "Treasure Pass",
+   "level": 11,
+   "course": 5
+ },
+ {
+   "world": 3,
+   "number": "3-2",
+   "name": "General Factory",
+   "level": 12,
+   "course": 6
+ },
+ {
+   "world": 3,
+   "number": "3-3",
+   "name": "Bridge of Insight",
+   "level": 13,
+   "course": 4
+ },
+ {
+   "world": 3,
+   "number": "3-4",
+   "name": "Hopskip Corridor",
+   "level": 15,
+   "course": 1
+ },
+ {
+   "world": 4,
+   "number": "4-1",
+   "name": "Sportan Waters",
+   "level": 23,
+   "course": 7
+ },
+ {
+   "world": 4,
+   "number": "4-2",
+   "name": "Sportan Swamp",
+   "level": 17,
+   "course": 2
+ },
+ {
+   "world": 4,
+   "number": "4-3",
+   "name": "Sporta Bridge",
+   "level": 18,
+   "course": 8
+ },
+ {
+   "world": 4,
+   "number": "4-4",
+   "name": "Dojo Sporta",
+   "level": 19,
+   "course": 3
+ },
+ {
+   "world": 4,
+   "number": "4-5",
+   "name": "Sportan Highway",
+   "level": 20,
+   "course": 9
+ },
+ {
+   "world": 4,
+   "number": "4-6",
+   "name": "Out-of-the-Way Way",
+   "level": 21,
+   "course": 0
+ },
+ {
+   "world": 5,
+   "number": "5-1",
+   "name": "Exertion River",
+   "level": 27,
+   "course": 10
+ },
+ {
+   "world": 5,
+   "number": "5-2",
+   "name": "Loot Pass",
+   "level": 28,
+   "course": 11
+ },
+ {
+   "world": 5,
+   "number": "5-3",
+   "name": "Armie Temple",
+   "level": 28,
+   "course": 1
+ },
+ {
+   "world": 5,
+   "number": "5-4",
+   "name": "Stopfoot Wastes",
+   "level": 30,
+   "course": 7
+ },
+ {
+   "world": 5,
+   "number": "5-5",
+   "name": "Birdseye Mountain Trail",
+   "level": 31,
+   "course": 5
+ },
+ {
+   "world": 5,
+   "number": "5-6",
+   "name": "Exertion Corridor",
+   "level": 32,
+   "course": 6
+ },
+ {
+   "world": 5,
+   "number": "5-7",
+   "name": "Leap-of-Faith Falls",
+   "level": 33,
+   "course": 12
+ },
+ {
+   "world": 5,
+   "number": "5-8",
+   "name": "Twilight Highway",
+   "level": 28,
+   "course": 4
+ },
+ {
+   "world": 7,
+   "number": "7-1",
+   "name": "Swing Gate",
+   "level": 45,
+   "course": 13
+ },
+ {
+   "world": 7,
+   "number": "7-2",
+   "name": "Starting-Block Bridge",
+   "level": 47,
+   "course": 14
+ },
+ {
+   "world": 7,
+   "number": "7-3",
+   "name": "Trotter's Grove",
+   "level": 48,
+   "course": 15
+ },
+ {
+   "world": 8,
+   "number": "8-1",
+   "name": "Gutterflow Temple",
+   "level": 52,
+   "course": 16
+ },
+ {
+   "world": 8,
+   "number": "8-2",
+   "name": "Drench Trench",
+   "level": 53,
+   "course": 5
+ },
+ {
+   "world": 8,
+   "number": "8-3",
+   "name": "Solar Plexia Archway",
+   "level": 59,
+   "course": 7
+ },
+ {
+   "world": 8,
+   "number": "8-4",
+   "name": "Dangling Overpass",
+   "level": 57,
+   "course": 17
+ },
+ {
+   "world": 8,
+   "number": "8-5",
+   "name": "Springload Shrine",
+   "level": 56,
+   "course": 12
+ },
+ {
+   "world": 8,
+   "number": "8-6",
+   "name": "Talisman Trail",
+   "level": 54,
+   "course": 2
+ },
+ {
+   "world": 9,
+   "number": "9-1",
+   "name": "No-Brakes Mine",
+   "level": 61,
+   "course": 18
+ },
+ {
+   "world": 9,
+   "number": "9-2",
+   "name": "Flyover Wilds",
+   "level": 61,
+   "course": 15
+ },
+ {
+   "world": 9,
+   "number": "9-3",
+   "name": "Beltline Tower",
+   "level": 64,
+   "course": 3
+ },
+ {
+   "world": 9,
+   "number": "9-4",
+   "name": "Pushpull Shrine",
+   "level": 66,
+   "course": 19
+ },
+ {
+   "world": 9,
+   "number": "9-5",
+   "name": "Otherside Street",
+   "level": 61,
+   "course": 11
+ },
+ {
+   "world": 9,
+   "number": "9-6",
+   "name": "Otherside Waterway",
+   "level": 65,
+   "course": 8
+ },
+ {
+   "world": 10,
+   "number": "10-1",
+   "name": "Floating Waterway",
+   "level": 70,
+   "course": 13
+ },
+ {
+   "world": 10,
+   "number": "10-2",
+   "name": "Fusion Waterway",
+   "level": 71,
+   "course": 16
+ },
+ {
+   "world": 11,
+   "number": "11-1",
+   "name": "Rumbling Road",
+   "level": 75,
+   "course": 20
+ },
+ {
+   "world": 11,
+   "number": "11-2",
+   "name": "Sunset Road",
+   "level": 76,
+   "course": 11
+ },
+ {
+   "world": 11,
+   "number": "11-3",
+   "name": "Athlete's Road",
+   "level": 77,
+   "course": 21
+ },
+ {
+   "world": 11,
+   "number": "11-4",
+   "name": "Soak Road",
+   "level": 80,
+   "course": 4
+ },
+ {
+   "world": 11,
+   "number": "11-5",
+   "name": "Hasty Highway",
+   "level": 81,
+   "course": 14
+ },
+ {
+   "world": 11,
+   "number": "11-6",
+   "name": "River Road",
+   "level": 83,
+   "course": 10
+ },
+ {
+   "world": 11,
+   "number": "11-7",
+   "name": "Twilight Road",
+   "level": 84,
+   "course": 6
+ },
+ {
+   "world": 12,
+   "number": "12-1",
+   "name": "Clever-Trick Temple",
+   "level": 87,
+   "course": 19
+ },
+ {
+   "world": 12,
+   "number": "12-2",
+   "name": "Monster Den",
+   "level": 88,
+   "course": 22
+ },
+ {
+   "world": 12,
+   "number": "12-3",
+   "name": "Upsurge Studio",
+   "level": 90,
+   "course": 23
+ },
+ {
+   "world": 12,
+   "number": "12-4",
+   "name": "Mt. Fearmenot",
+   "level": 91,
+   "course": 24
+ },
+ {
+   "world": 12,
+   "number": "12-5",
+   "name": "Tornado Temple",
+   "level": 92,
+   "course": 25
+ },
+ {
+   "world": 12,
+   "number": "12-6",
+   "name": "Fluttering Heights",
+   "level": 94,
+   "course": 26
+ },
+ {
+   "world": 14,
+   "number": "14-1",
+   "name": "Missed Highway",
+   "level": 101,
+   "course": 15
+ },
+ {
+   "world": 14,
+   "number": "14-2",
+   "name": "Invisible Temple",
+   "level": 104,
+   "course": 25
+ },
+ {
+   "world": 14,
+   "number": "14-3",
+   "name": "Misty Corridor",
+   "level": 102,
+   "course": 12
+ },
+ {
+   "world": 14,
+   "number": "14-4",
+   "name": "Turmoil Territory",
+   "level": 107,
+   "course": 7
+ },
+ {
+   "world": 14,
+   "number": "14-5",
+   "name": "Disappearance Path",
+   "level": 109,
+   "course": 5
+ },
+ {
+   "world": 14,
+   "number": "14-6",
+   "name": "Gazelle Channel",
+   "level": 108,
+   "course": 27
+ },
+ {
+   "world": 14,
+   "number": "14-7",
+   "name": "High-Roller Complex",
+   "level": 105,
+   "course": 20
+ },
+ {
+   "world": 14,
+   "number": "14-8",
+   "name": "Steadfast Road",
+   "level": 103,
+   "course": 9
+ },
+ {
+   "world": 15,
+   "number": "15-1",
+   "name": "Aerohead Road",
+   "level": 116,
+   "course": 28
+ },
+ {
+   "world": 15,
+   "number": "15-2",
+   "name": "Sedentary Swamp",
+   "level": 116,
+   "course": 8
+ },
+ {
+   "world": 15,
+   "number": "15-3",
+   "name": "Condensation Corridor",
+   "level": 116,
+   "course": 1
+ },
+ {
+   "world": 15,
+   "number": "15-4",
+   "name": "Hot Spot",
+   "level": 117,
+   "course": 29
+ },
+ {
+   "world": 15,
+   "number": "15-5",
+   "name": "Upper Road",
+   "level": 111,
+   "course": 21
+ },
+ {
+   "world": 15,
+   "number": "15-6",
+   "name": "Lower Road",
+   "level": 112,
+   "course": 30
+ },
+ {
+   "world": 15,
+   "number": "15-7",
+   "name": "North Road",
+   "level": 113,
+   "course": 31
+ },
+ {
+   "world": 15,
+   "number": "15-8",
+   "name": "South Road",
+   "level": 114,
+   "course": 13
+ },
+ {
+   "world": 16,
+   "number": "16-1",
+   "name": "Wingflap Falls",
+   "level": 122,
+   "course": 32
+ },
+ {
+   "world": 16,
+   "number": "16-2",
+   "name": "Flyover Pass",
+   "level": 122,
+   "course": 26
+ },
+ {
+   "world": 16,
+   "number": "16-3",
+   "name": "Scramble Wasteland",
+   "level": 123,
+   "course": 33
+ },
+ {
+   "world": 16,
+   "number": "16-4",
+   "name": "Flutterpeak Pass",
+   "level": 125,
+   "course": 24
+ },
+ {
+   "world": 16,
+   "number": "16-5",
+   "name": "Piston-Pump Rail",
+   "level": 126,
+   "course": 27
+ },
+ {
+   "world": 16,
+   "number": "16-6",
+   "name": "Pushover Corridor",
+   "level": 127,
+   "course": 19
+ },
+ {
+   "world": 16,
+   "number": "16-7",
+   "name": "Perseverance Valley",
+   "level": 128,
+   "course": 22
+ },
+ {
+   "world": 17,
+   "number": "17-1",
+   "name": "Hamstring Marsh",
+   "level": 128,
+   "course": 2
+ },
+ {
+   "world": 17,
+   "number": "17-2",
+   "name": "Sweat Street",
+   "level": 132,
+   "course": 11
+ },
+ {
+   "world": 17,
+   "number": "17-3",
+   "name": "Hangon Bridge",
+   "level": 134,
+   "course": 31
+ },
+ {
+   "world": 17,
+   "number": "17-4",
+   "name": "Inside Strait",
+   "level": 135,
+   "course": 14
+ },
+ {
+   "world": 17,
+   "number": "17-5",
+   "name": "Backways Path",
+   "level": 136,
+   "course": 27
+ },
+ {
+   "world": 18,
+   "number": "18-1",
+   "name": "Shivering Valley",
+   "level": 138,
+   "course": 30
+ },
+ {
+   "world": 18,
+   "number": "18-2",
+   "name": "Rail to the Chief",
+   "level": 141,
+   "course": 23
+ },
+ {
+   "world": 18,
+   "number": "18-3",
+   "name": "Freezing Freeway",
+   "level": 140,
+   "course": 22
+ },
+ {
+   "world": 18,
+   "number": "18-4",
+   "name": "Wintry Watchtower",
+   "level": 139,
+   "course": 29
+ },
+ {
+   "world": 18,
+   "number": "18-5",
+   "name": "Snowflurry Valley",
+   "level": 142,
+   "course": 26
+ },
+ {
+   "world": 19,
+   "number": "19-1",
+   "name": "Ohohwan River",
+   "level": 144,
+   "course": 10
+ },
+ {
+   "world": 19,
+   "number": "19-2",
+   "name": "Wanoh Hills",
+   "level": 145,
+   "course": 5
+ },
+ {
+   "world": 19,
+   "number": "19-3",
+   "name": "Ohwanoh Factory",
+   "level": 146,
+   "course": 25
+ },
+ {
+   "world": 19,
+   "number": "19-4",
+   "name": "Ohoh Valley",
+   "level": 148,
+   "course": 32
+ },
+ {
+   "world": 19,
+   "number": "19-5",
+   "name": "Ohwanwan Route",
+   "level": 149,
+   "course": 3
+ },
+ {
+   "world": 19,
+   "number": "19-6",
+   "name": "Wanohwanoh Way",
+   "level": 150,
+   "course": 28
+ },
+ {
+   "world": 19,
+   "number": "19-7",
+   "name": "Ohohoh Tower",
+   "level": 151,
+   "course": 17
+ },
+ {
+   "world": 20,
+   "number": "20-1",
+   "name": "Howling Hollow",
+   "level": 154,
+   "course": 24
+ },
+ {
+   "world": 20,
+   "number": "20-2",
+   "name": "Swift Spire",
+   "level": 157,
+   "course": 6
+ },
+ {
+   "world": 20,
+   "number": "20-3",
+   "name": "Hang-Tough Temple",
+   "level": 155,
+   "course": 31
+ },
+ {
+   "world": 20,
+   "number": "20-4",
+   "name": "Glowskin Ridge",
+   "level": 156,
+   "course": 4
+ },
+ {
+   "world": 20,
+   "number": "20-5",
+   "name": "Bolthole Tunnel",
+   "level": 156,
+   "course": 18
+ },
+ {
+   "world": 20,
+   "number": "20-6",
+   "name": "Marathon Field",
+   "level": 157,
+   "course": 33
+ },
+ {
+   "world": 21,
+   "number": "21-1",
+   "name": "Jog-On Bog",
+   "level": 159,
+   "course": 8
+ },
+ {
+   "world": 21,
+   "number": "21-2",
+   "name": "Ribcage Peak",
+   "level": 160,
+   "course": 0
+ },
+ {
+   "world": 21,
+   "number": "21-3",
+   "name": "Whirling Halls",
+   "level": 161,
+   "course": 13
+ },
+ {
+   "world": 21,
+   "number": "21-4",
+   "name": "Soaring Valley",
+   "level": 162,
+   "course": 30
+ },
+ {
+   "world": 21,
+   "number": "21-5",
+   "name": "Rear Byway",
+   "level": 162,
+   "course": 23
+ },
+ {
+   "world": 21,
+   "number": "21-6",
+   "name": "Inner Byway",
+   "level": 163,
+   "course": 12
+ },
+ {
+   "world": 22,
+   "number": "22-1",
+   "name": "Exercise Paradise",
+   "level": 164,
+   "course": 33
+ },
+ {
+   "world": 22,
+   "number": "22-2",
+   "name": "Uplift Temple",
+   "level": 165,
+   "course": 29
+ },
+ {
+   "world": 22,
+   "number": "22-3",
+   "name": "Gunsho Temple",
+   "level": 166,
+   "course": 19
+ },
+ {
+   "world": 22,
+   "number": "22-4",
+   "name": "Perspiration Paradise",
+   "level": 167,
+   "course": 28
+ },
+ {
+   "world": 22,
+   "number": "22-5",
+   "name": "Slab Paradise",
+   "level": 168,
+   "course": 27
+ },
+ {
+   "world": 22,
+   "number": "22-6",
+   "name": "Six-Peak Temple",
+   "level": 168,
+   "course": 25
+ },
+ {
+   "world": 22,
+   "number": "22-7",
+   "name": "Calm Cloister",
+   "level": 169,
+   "course": 9
+ },
+ {
+   "world": 22,
+   "number": "22-8",
+   "name": "Judgment Pass",
+   "level": 170,
+   "course": 26
+ },
+ {
+   "world": 22,
+   "number": "22-9",
+   "name": "Yogana",
+   "level": 171,
+   "course": 11
+ },
+ {
+   "world": 23,
+   "number": "23-1",
+   "name": "Last Lookout",
+   "level": 175,
+   "course": 31
+ },
+ {
+   "world": 23,
+   "number": "23-2",
+   "name": "Closing Coaster",
+   "level": 176,
+   "course": 16
+ },
+ {
+   "world": 23,
+   "number": "23-3",
+   "name": "Hindmost Highway",
+   "level": 177,
+   "course": 24
+ },
+ {
+   "world": 23,
+   "number": "23-4",
+   "name": "Irrevocable River",
+   "level": 178,
+   "course": 10
+ },
+ {
+   "world": 23,
+   "number": "23-5",
+   "name": "Ultimate Hollow",
+   "level": 179,
+   "course": 30
+ },
+ {
+   "world": 24,
+   "number": "1-1",
+   "name": "Beginnia",
+   "level": 180,
+   "course": 0
+ },
+ {
+   "world": 24,
+   "number": "1-2",
+   "name": "Transient Temple",
+   "level": 180,
+   "course": 1
+ },
+ {
+   "world": 25,
+   "number": "2-1",
+   "name": "Nightcloak Pass",
+   "level": 181,
+   "course": 2
+ },
+ {
+   "world": 25,
+   "number": "2-2",
+   "name": "Dashalong Tower",
+   "level": 181,
+   "course": 3
+ },
+ {
+   "world": 25,
+   "number": "2-3",
+   "name": "Disturbance Meadow",
+   "level": 181,
+   "course": 4
+ },
+ {
+   "world": 26,
+   "number": "3-1",
+   "name": "Treasure Pass",
+   "level": 182,
+   "course": 5
+ },
+ {
+   "world": 26,
+   "number": "3-2",
+   "name": "General Factory",
+   "level": 182,
+   "course": 6
+ },
+ {
+   "world": 26,
+   "number": "3-3",
+   "name": "Bridge of Insight",
+   "level": 183,
+   "course": 4
+ },
+ {
+   "world": 26,
+   "number": "3-4",
+   "name": "Hopskip Corridor",
+   "level": 183,
+   "course": 1
+ },
+ {
+   "world": 27,
+   "number": "4-1",
+   "name": "Sportan Waters",
+   "level": 185,
+   "course": 7
+ },
+ {
+   "world": 27,
+   "number": "4-2",
+   "name": "Sportan Swamp",
+   "level": 185,
+   "course": 2
+ },
+ {
+   "world": 27,
+   "number": "4-3",
+   "name": "Sporta Bridge",
+   "level": 186,
+   "course": 8
+ },
+ {
+   "world": 27,
+   "number": "4-4",
+   "name": "Dojo Sporta",
+   "level": 186,
+   "course": 3
+ },
+ {
+   "world": 27,
+   "number": "4-5",
+   "name": "Sportan Highway",
+   "level": 186,
+   "course": 9
+ },
+ {
+   "world": 27,
+   "number": "4-6",
+   "name": "Out-of-the-Way Way",
+   "level": 186,
+   "course": 0
+ },
+ {
+   "world": 28,
+   "number": "5-1",
+   "name": "Exertion River",
+   "level": 188,
+   "course": 10
+ },
+ {
+   "world": 28,
+   "number": "5-2",
+   "name": "Loot Pass",
+   "level": 189,
+   "course": 11
+ },
+ {
+   "world": 28,
+   "number": "5-3",
+   "name": "Armie Temple",
+   "level": 189,
+   "course": 1
+ },
+ {
+   "world": 28,
+   "number": "5-4",
+   "name": "Stopfoot Wastes",
+   "level": 190,
+   "course": 7
+ },
+ {
+   "world": 28,
+   "number": "5-5",
+   "name": "Birdseye Mountain Trail",
+   "level": 190,
+   "course": 5
+ },
+ {
+   "world": 28,
+   "number": "5-6",
+   "name": "Exertion Corridor",
+   "level": 191,
+   "course": 6
+ },
+ {
+   "world": 28,
+   "number": "5-7",
+   "name": "Leap-of-Faith Falls",
+   "level": 191,
+   "course": 12
+ },
+ {
+   "world": 28,
+   "number": "5-8",
+   "name": "Twilight Highway",
+   "level": 188,
+   "course": 4
+ },
+ {
+   "world": 30,
+   "number": "7-1",
+   "name": "Swing Gate",
+   "level": 195,
+   "course": 13
+ },
+ {
+   "world": 30,
+   "number": "7-2",
+   "name": "Starting-Block Bridge",
+   "level": 196,
+   "course": 14
+ },
+ {
+   "world": 30,
+   "number": "7-3",
+   "name": "Trotter's Grove",
+   "level": 197,
+   "course": 15
+ },
+ {
+   "world": 31,
+   "number": "8-1",
+   "name": "Gutterflow Temple",
+   "level": 199,
+   "course": 16
+ },
+ {
+   "world": 31,
+   "number": "8-2",
+   "name": "Drench Trench",
+   "level": 199,
+   "course": 5
+ },
+ {
+   "world": 31,
+   "number": "8-3",
+   "name": "Solar Plexia Archway",
+   "level": 203,
+   "course": 7
+ },
+ {
+   "world": 31,
+   "number": "8-4",
+   "name": "Dangling Overpass",
+   "level": 201,
+   "course": 17
+ },
+ {
+   "world": 31,
+   "number": "8-5",
+   "name": "Springload Shrine",
+   "level": 200,
+   "course": 12
+ },
+ {
+   "world": 31,
+   "number": "8-6",
+   "name": "Talisman Trail",
+   "level": 200,
+   "course": 2
+ },
+ {
+   "world": 32,
+   "number": "9-1",
+   "name": "No-Brakes Mine",
+   "level": 204,
+   "course": 18
+ },
+ {
+   "world": 32,
+   "number": "9-2",
+   "name": "Flyover Wilds",
+   "level": 204,
+   "course": 15
+ },
+ {
+   "world": 32,
+   "number": "9-3",
+   "name": "Beltline Tower",
+   "level": 205,
+   "course": 3
+ },
+ {
+   "world": 32,
+   "number": "9-4",
+   "name": "Pushpull Shrine",
+   "level": 206,
+   "course": 19
+ },
+ {
+   "world": 32,
+   "number": "9-5",
+   "name": "Otherside Street",
+   "level": 204,
+   "course": 11
+ },
+ {
+   "world": 32,
+   "number": "9-6",
+   "name": "Otherside Waterway",
+   "level": 205,
+   "course": 8
+ },
+ {
+   "world": 33,
+   "number": "10-1",
+   "name": "Floating Waterway",
+   "level": 208,
+   "course": 13
+ },
+ {
+   "world": 33,
+   "number": "10-2",
+   "name": "Fusion Waterway",
+   "level": 208,
+   "course": 16
+ },
+ {
+   "world": 34,
+   "number": "11-1",
+   "name": "Rumbling Road",
+   "level": 211,
+   "course": 20
+ },
+ {
+   "world": 34,
+   "number": "11-2",
+   "name": "Sunset Road",
+   "level": 212,
+   "course": 11
+ },
+ {
+   "world": 34,
+   "number": "11-3",
+   "name": "Athlete's Road",
+   "level": 212,
+   "course": 21
+ },
+ {
+   "world": 34,
+   "number": "11-4",
+   "name": "Soak Road",
+   "level": 214,
+   "course": 4
+ },
+ {
+   "world": 34,
+   "number": "11-5",
+   "name": "Hasty Highway",
+   "level": 214,
+   "course": 14
+ },
+ {
+   "world": 34,
+   "number": "11-6",
+   "name": "River Road",
+   "level": 215,
+   "course": 10
+ },
+ {
+   "world": 34,
+   "number": "11-7",
+   "name": "Twilight Road",
+   "level": 216,
+   "course": 6
+ },
+ {
+   "world": 35,
+   "number": "12-1",
+   "name": "Clever-Trick Temple",
+   "level": 218,
+   "course": 19
+ },
+ {
+   "world": 35,
+   "number": "12-2",
+   "name": "Monster Den",
+   "level": 218,
+   "course": 22
+ },
+ {
+   "world": 35,
+   "number": "12-3",
+   "name": "Upsurge Studio",
+   "level": 218,
+   "course": 23
+ },
+ {
+   "world": 35,
+   "number": "12-4",
+   "name": "Mt. Fearmenot",
+   "level": 218,
+   "course": 24
+ },
+ {
+   "world": 35,
+   "number": "12-5",
+   "name": "Tornado Temple",
+   "level": 220,
+   "course": 25
+ },
+ {
+   "world": 35,
+   "number": "12-6",
+   "name": "Fluttering Heights",
+   "level": 221,
+   "course": 26
+ },
+ {
+   "world": 37,
+   "number": "14-1",
+   "name": "Missed Highway",
+   "level": 226,
+   "course": 15
+ },
+ {
+   "world": 37,
+   "number": "14-2",
+   "name": "Invisible Temple",
+   "level": 227,
+   "course": 25
+ },
+ {
+   "world": 37,
+   "number": "14-3",
+   "name": "Misty Corridor",
+   "level": 226,
+   "course": 12
+ },
+ {
+   "world": 37,
+   "number": "14-4",
+   "name": "Turmoil Territory",
+   "level": 229,
+   "course": 7
+ },
+ {
+   "world": 37,
+   "number": "14-5",
+   "name": "Disappearance Path",
+   "level": 230,
+   "course": 5
+ },
+ {
+   "world": 37,
+   "number": "14-6",
+   "name": "Gazelle Channel",
+   "level": 229,
+   "course": 27
+ },
+ {
+   "world": 37,
+   "number": "14-7",
+   "name": "High-Roller Complex",
+   "level": 228,
+   "course": 20
+ },
+ {
+   "world": 37,
+   "number": "14-8",
+   "name": "Steadfast Road",
+   "level": 226,
+   "course": 9
+ },
+ {
+   "world": 38,
+   "number": "15-1",
+   "name": "Aerohead Road",
+   "level": 235,
+   "course": 28
+ },
+ {
+   "world": 38,
+   "number": "15-2",
+   "name": "Sedentary Swamp",
+   "level": 235,
+   "course": 8
+ },
+ {
+   "world": 38,
+   "number": "15-3",
+   "name": "Condensation Corridor",
+   "level": 235,
+   "course": 1
+ },
+ {
+   "world": 38,
+   "number": "15-4",
+   "name": "Hot Spot",
+   "level": 236,
+   "course": 29
+ },
+ {
+   "world": 38,
+   "number": "15-5",
+   "name": "Upper Road",
+   "level": 232,
+   "course": 21
+ },
+ {
+   "world": 38,
+   "number": "15-6",
+   "name": "Lower Road",
+   "level": 232,
+   "course": 30
+ },
+ {
+   "world": 38,
+   "number": "15-7",
+   "name": "North Road",
+   "level": 233,
+   "course": 31
+ },
+ {
+   "world": 38,
+   "number": "15-8",
+   "name": "South Road",
+   "level": 233,
+   "course": 13
+ },
+ {
+   "world": 39,
+   "number": "16-1",
+   "name": "Wingflap Falls",
+   "level": 238,
+   "course": 32
+ },
+ {
+   "world": 39,
+   "number": "16-2",
+   "name": "Flyover Pass",
+   "level": 238,
+   "course": 26
+ },
+ {
+   "world": 39,
+   "number": "16-3",
+   "name": "Scramble Wasteland",
+   "level": 239,
+   "course": 33
+ },
+ {
+   "world": 39,
+   "number": "16-4",
+   "name": "Flutterpeak Pass",
+   "level": 241,
+   "course": 24
+ },
+ {
+   "world": 39,
+   "number": "16-5",
+   "name": "Piston-Pump Rail",
+   "level": 241,
+   "course": 27
+ },
+ {
+   "world": 39,
+   "number": "16-6",
+   "name": "Pushover Corridor",
+   "level": 242,
+   "course": 19
+ },
+ {
+   "world": 39,
+   "number": "16-7",
+   "name": "Perseverance Valley",
+   "level": 242,
+   "course": 22
+ },
+ {
+   "world": 40,
+   "number": "17-1",
+   "name": "Hamstring Marsh",
+   "level": 243,
+   "course": 2
+ },
+ {
+   "world": 40,
+   "number": "17-2",
+   "name": "Sweat Street",
+   "level": 244,
+   "course": 11
+ },
+ {
+   "world": 40,
+   "number": "17-3",
+   "name": "Hangon Bridge",
+   "level": 246,
+   "course": 31
+ },
+ {
+   "world": 40,
+   "number": "17-4",
+   "name": "Inside Strait",
+   "level": 244,
+   "course": 14
+ },
+ {
+   "world": 40,
+   "number": "17-5",
+   "name": "Backways Path",
+   "level": 245,
+   "course": 27
+ },
+ {
+   "world": 41,
+   "number": "18-1",
+   "name": "Shivering Valley",
+   "level": 248,
+   "course": 30
+ },
+ {
+   "world": 41,
+   "number": "18-2",
+   "name": "Rail to the Chief",
+   "level": 249,
+   "course": 23
+ },
+ {
+   "world": 41,
+   "number": "18-3",
+   "name": "Freezing Freeway",
+   "level": 249,
+   "course": 22
+ },
+ {
+   "world": 41,
+   "number": "18-4",
+   "name": "Wintry Watchtower",
+   "level": 248,
+   "course": 29
+ },
+ {
+   "world": 41,
+   "number": "18-5",
+   "name": "Snowflurry Valley",
+   "level": 249,
+   "course": 26
+ },
+ {
+   "world": 42,
+   "number": "19-1",
+   "name": "Ohohwan River",
+   "level": 251,
+   "course": 10
+ },
+ {
+   "world": 42,
+   "number": "19-2",
+   "name": "Wanoh Hills",
+   "level": 252,
+   "course": 5
+ },
+ {
+   "world": 42,
+   "number": "19-3",
+   "name": "Ohwanoh Factory",
+   "level": 253,
+   "course": 25
+ },
+ {
+   "world": 42,
+   "number": "19-4",
+   "name": "Ohoh Valley",
+   "level": 254,
+   "course": 32
+ },
+ {
+   "world": 42,
+   "number": "19-5",
+   "name": "Ohwanwan Route",
+   "level": 254,
+   "course": 3
+ },
+ {
+   "world": 42,
+   "number": "19-6",
+   "name": "Wanohwanoh Way",
+   "level": 256,
+   "course": 28
+ },
+ {
+   "world": 42,
+   "number": "19-7",
+   "name": "Ohohoh Tower",
+   "level": 256,
+   "course": 17
+ },
+ {
+   "world": 43,
+   "number": "20-1",
+   "name": "Howling Hollow",
+   "level": 259,
+   "course": 24
+ },
+ {
+   "world": 43,
+   "number": "20-2",
+   "name": "Swift Spire",
+   "level": 262,
+   "course": 6
+ },
+ {
+   "world": 43,
+   "number": "20-3",
+   "name": "Hang-Tough Temple",
+   "level": 259,
+   "course": 31
+ },
+ {
+   "world": 43,
+   "number": "20-4",
+   "name": "Glowskin Ridge",
+   "level": 260,
+   "course": 4
+ },
+ {
+   "world": 43,
+   "number": "20-5",
+   "name": "Bolthole Tunnel",
+   "level": 260,
+   "course": 18
+ },
+ {
+   "world": 43,
+   "number": "20-6",
+   "name": "Marathon Field",
+   "level": 261,
+   "course": 33
+ },
+ {
+   "world": 44,
+   "number": "21-1",
+   "name": "Jog-On Bog",
+   "level": 263,
+   "course": 8
+ },
+ {
+   "world": 44,
+   "number": "21-2",
+   "name": "Ribcage Peak",
+   "level": 264,
+   "course": 0
+ },
+ {
+   "world": 44,
+   "number": "21-3",
+   "name": "Whirling Halls",
+   "level": 265,
+   "course": 13
+ },
+ {
+   "world": 44,
+   "number": "21-4",
+   "name": "Soaring Valley",
+   "level": 267,
+   "course": 30
+ },
+ {
+   "world": 44,
+   "number": "21-5",
+   "name": "Rear Byway",
+   "level": 267,
+   "course": 23
+ },
+ {
+   "world": 44,
+   "number": "21-6",
+   "name": "Inner Byway",
+   "level": 267,
+   "course": 12
+ },
+ {
+   "world": 45,
+   "number": "22-1",
+   "name": "Exercise Paradise",
+   "level": 270,
+   "course": 33
+ },
+ {
+   "world": 45,
+   "number": "22-2",
+   "name": "Uplift Temple",
+   "level": 270,
+   "course": 29
+ },
+ {
+   "world": 45,
+   "number": "22-3",
+   "name": "Gunsho Temple",
+   "level": 270,
+   "course": 19
+ },
+ {
+   "world": 45,
+   "number": "22-4",
+   "name": "Perspiration Paradise",
+   "level": 272,
+   "course": 28
+ },
+ {
+   "world": 45,
+   "number": "22-5",
+   "name": "Slab Paradise",
+   "level": 272,
+   "course": 27
+ },
+ {
+   "world": 45,
+   "number": "22-6",
+   "name": "Six-Peak Temple",
+   "level": 273,
+   "course": 25
+ },
+ {
+   "world": 45,
+   "number": "22-7",
+   "name": "Calm Cloister",
+   "level": 273,
+   "course": 9
+ },
+ {
+   "world": 45,
+   "number": "22-8",
+   "name": "Judgment Pass",
+   "level": 274,
+   "course": 26
+ },
+ {
+   "world": 45,
+   "number": "22-9",
+   "name": "Yogana",
+   "level": 275,
+   "course": 11
+ },
+ {
+   "world": 46,
+   "number": "23-1",
+   "name": "Last Lookout",
+   "level": 278,
+   "course": 31
+ },
+ {
+   "world": 46,
+   "number": "23-2",
+   "name": "Closing Coaster",
+   "level": 279,
+   "course": 16
+ },
+ {
+   "world": 46,
+   "number": "23-3",
+   "name": "Hindmost Highway",
+   "level": 278,
+   "course": 24
+ },
+ {
+   "world": 46,
+   "number": "23-4",
+   "name": "Irrevocable River",
+   "level": 279,
+   "course": 10
+ },
+ {
+   "world": 46,
+   "number": "23-5",
+   "name": "Ultimate Hollow",
+   "level": 280,
+   "course": 30
+ }
+]

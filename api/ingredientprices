@@ -1,0 +1,94 @@
+[
+ {
+   "coins": 30,
+   "ingredient": "Avocado"
+ },
+ {
+   "coins": 30,
+   "ingredient": "Pineapple"
+ },
+ {
+   "coins": 30,
+   "ingredient": "Ginger"
+ },
+ {
+   "coins": 30,
+   "ingredient": "Cinnamon"
+ },
+ {
+   "coins": 30,
+   "ingredient": "Arugula"
+ },
+ {
+   "coins": 30,
+   "ingredient": "Almond Milk"
+ },
+ {
+   "coins": 30,
+   "ingredient": "Basil"
+ },
+ {
+   "coins": 30,
+   "ingredient": "Cranberries"
+ },
+ {
+   "coins": 20,
+   "ingredient": "Asparagus"
+ },
+ {
+   "coins": 20,
+   "ingredient": "Apricot"
+ },
+ {
+   "coins": 20,
+   "ingredient": "Blueberries"
+ },
+ {
+   "coins": 20,
+   "ingredient": "Prunes"
+ },
+ {
+   "coins": 20,
+   "ingredient": "Yogurt"
+ },
+ {
+   "coins": 20,
+   "ingredient": "Apple"
+ },
+ {
+   "coins": 20,
+   "ingredient": "Tomato"
+ },
+ {
+   "coins": 20,
+   "ingredient": "Carbonated Water"
+ },
+ {
+   "coins": 25,
+   "ingredient": "Milk"
+ },
+ {
+   "coins": 20,
+   "ingredient": "Bananas"
+ },
+ {
+   "coins": 20,
+   "ingredient": "Strawberries"
+ },
+ {
+   "coins": 20,
+   "ingredient": "Grapes"
+ },
+ {
+   "coins": 25,
+   "ingredient": "White Sesame Seeds"
+ },
+ {
+   "coins": 20,
+   "ingredient": "Green Tea Leaves"
+ },
+ {
+   "coins": 20,
+   "ingredient": "Spinach"
+ }
+]

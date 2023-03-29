@@ -1,0 +1,3572 @@
+[
+ {
+   "id": 0,
+   "world": 1,
+   "stage": "1-1",
+   "ingredient_1": "",
+   "ingredient_2": "",
+   "ingredient_3": "",
+   "ingredient_4": "",
+   "ingredient_5": ""
+ },
+ {
+   "id": 1,
+   "world": 1,
+   "stage": "1-2",
+   "ingredient_1": "",
+   "ingredient_2": "",
+   "ingredient_3": "",
+   "ingredient_4": "",
+   "ingredient_5": ""
+ },
+ {
+   "id": 2,
+   "world": 2,
+   "stage": "2-1",
+   "ingredient_1": "",
+   "ingredient_2": "",
+   "ingredient_3": "",
+   "ingredient_4": "",
+   "ingredient_5": ""
+ },
+ {
+   "id": 3,
+   "world": 2,
+   "stage": "2-2",
+   "ingredient_1": "",
+   "ingredient_2": "",
+   "ingredient_3": "",
+   "ingredient_4": "",
+   "ingredient_5": ""
+ },
+ {
+   "id": 4,
+   "world": 2,
+   "stage": "2-3",
+   "ingredient_1": "",
+   "ingredient_2": "",
+   "ingredient_3": "",
+   "ingredient_4": "",
+   "ingredient_5": ""
+ },
+ {
+   "id": 5,
+   "world": 3,
+   "stage": "3-1",
+   "ingredient_1": "",
+   "ingredient_2": "",
+   "ingredient_3": "",
+   "ingredient_4": "",
+   "ingredient_5": ""
+ },
+ {
+   "id": 6,
+   "world": 3,
+   "stage": "3-2",
+   "ingredient_1": "",
+   "ingredient_2": "",
+   "ingredient_3": "",
+   "ingredient_4": "",
+   "ingredient_5": ""
+ },
+ {
+   "id": 7,
+   "world": 3,
+   "stage": "3-3",
+   "ingredient_1": "",
+   "ingredient_2": "",
+   "ingredient_3": "",
+   "ingredient_4": "",
+   "ingredient_5": ""
+ },
+ {
+   "id": 8,
+   "world": 3,
+   "stage": "3-4",
+   "ingredient_1": "",
+   "ingredient_2": "",
+   "ingredient_3": "",
+   "ingredient_4": "",
+   "ingredient_5": ""
+ },
+ {
+   "id": 9,
+   "world": 4,
+   "stage": "4-1",
+   "ingredient_1": "Spinach",
+   "ingredient_2": "Strawberries",
+   "ingredient_3": "Milk",
+   "ingredient_4": "White Sesame Seeds",
+   "ingredient_5": "Gelatin"
+ },
+ {
+   "id": 10,
+   "world": 4,
+   "stage": "4-2",
+   "ingredient_1": "Grapes",
+   "ingredient_2": "Green Tea Leaves",
+   "ingredient_3": "Bananas",
+   "ingredient_4": "Spinach",
+   "ingredient_5": "Strawberries"
+ },
+ {
+   "id": 11,
+   "world": 4,
+   "stage": "4-3",
+   "ingredient_1": "Spinach",
+   "ingredient_2": "Strawberries",
+   "ingredient_3": "Milk",
+   "ingredient_4": "White Sesame Seeds",
+   "ingredient_5": "Gelatin"
+ },
+ {
+   "id": 12,
+   "world": 4,
+   "stage": "4-4",
+   "ingredient_1": "Grapes",
+   "ingredient_2": "Green Tea Leaves",
+   "ingredient_3": "Bananas",
+   "ingredient_4": "Spinach",
+   "ingredient_5": "Strawberries"
+ },
+ {
+   "id": 13,
+   "world": 4,
+   "stage": "4-5",
+   "ingredient_1": "Spinach",
+   "ingredient_2": "Strawberries",
+   "ingredient_3": "Milk",
+   "ingredient_4": "White Sesame Seeds",
+   "ingredient_5": "Gelatin"
+ },
+ {
+   "id": 14,
+   "world": 4,
+   "stage": "4-6",
+   "ingredient_1": "Grapes",
+   "ingredient_2": "Green Tea Leaves",
+   "ingredient_3": "Bananas",
+   "ingredient_4": "Spinach",
+   "ingredient_5": "Strawberries"
+ },
+ {
+   "id": 15,
+   "world": 5,
+   "stage": "5-1",
+   "ingredient_1": "Spinach",
+   "ingredient_2": "Tomato",
+   "ingredient_3": "Pomegranate",
+   "ingredient_4": "Apple",
+   "ingredient_5": "Onion"
+ },
+ {
+   "id": 16,
+   "world": 5,
+   "stage": "5-2",
+   "ingredient_1": "Milk",
+   "ingredient_2": "Carrot",
+   "ingredient_3": "Spinach",
+   "ingredient_4": "Bananas",
+   "ingredient_5": "Green Tea Leaves"
+ },
+ {
+   "id": 17,
+   "world": 5,
+   "stage": "5-3",
+   "ingredient_1": "Lemon",
+   "ingredient_2": "Tomato",
+   "ingredient_3": "Pomegranate",
+   "ingredient_4": "Apple",
+   "ingredient_5": "White Sesame Seeds"
+ },
+ {
+   "id": 18,
+   "world": 5,
+   "stage": "5-4",
+   "ingredient_1": "Spinach",
+   "ingredient_2": "Carrot",
+   "ingredient_3": "Strawberries",
+   "ingredient_4": "Grapes",
+   "ingredient_5": "Gelatin"
+ },
+ {
+   "id": 19,
+   "world": 5,
+   "stage": "5-5",
+   "ingredient_1": "Lemon",
+   "ingredient_2": "Tomato",
+   "ingredient_3": "Pomegranate",
+   "ingredient_4": "Apple",
+   "ingredient_5": "Onion"
+ },
+ {
+   "id": 20,
+   "world": 5,
+   "stage": "5-6",
+   "ingredient_1": "Spinach",
+   "ingredient_2": "Carrot",
+   "ingredient_3": "Strawberries",
+   "ingredient_4": "White Sesame Seeds",
+   "ingredient_5": "Milk"
+ },
+ {
+   "id": 21,
+   "world": 5,
+   "stage": "5-7",
+   "ingredient_1": "Spinach",
+   "ingredient_2": "Tomato",
+   "ingredient_3": "Pomegranate",
+   "ingredient_4": "Apple",
+   "ingredient_5": "Onion"
+ },
+ {
+   "id": 22,
+   "world": 5,
+   "stage": "5-8",
+   "ingredient_1": "Carbonated Water",
+   "ingredient_2": "Spinach",
+   "ingredient_3": "Strawberries",
+   "ingredient_4": "Bananas",
+   "ingredient_5": "Green Tea Leaves"
+ },
+ {
+   "id": 23,
+   "world": 7,
+   "stage": "7-1",
+   "ingredient_1": "Milk",
+   "ingredient_2": "Grapes",
+   "ingredient_3": "Carrot",
+   "ingredient_4": "Spinach",
+   "ingredient_5": "Onion"
+ },
+ {
+   "id": 24,
+   "world": 7,
+   "stage": "7-2",
+   "ingredient_1": "Pumpkin",
+   "ingredient_2": "Soy Milk",
+   "ingredient_3": "Yogurt",
+   "ingredient_4": "Blueberries",
+   "ingredient_5": "Prunes"
+ },
+ {
+   "id": 25,
+   "world": 7,
+   "stage": "7-3",
+   "ingredient_1": "Raisins",
+   "ingredient_2": "Peach",
+   "ingredient_3": "Soy Milk",
+   "ingredient_4": "Grapes",
+   "ingredient_5": "Spinach"
+ },
+ {
+   "id": 26,
+   "world": 8,
+   "stage": "8-1",
+   "ingredient_1": "Bananas",
+   "ingredient_2": "Carbonated Water",
+   "ingredient_3": "Apple",
+   "ingredient_4": "Yogurt",
+   "ingredient_5": "Cress"
+ },
+ {
+   "id": 27,
+   "world": 8,
+   "stage": "8-2",
+   "ingredient_1": "Vinegar",
+   "ingredient_2": "Honey",
+   "ingredient_3": "Apricot",
+   "ingredient_4": "Milk",
+   "ingredient_5": "Grapes"
+ },
+ {
+   "id": 28,
+   "world": 8,
+   "stage": "8-3",
+   "ingredient_1": "Soy Milk",
+   "ingredient_2": "Yogurt",
+   "ingredient_3": "Lemon",
+   "ingredient_4": "Blueberries",
+   "ingredient_5": "Cress"
+ },
+ {
+   "id": 29,
+   "world": 8,
+   "stage": "8-4",
+   "ingredient_1": "Vinegar",
+   "ingredient_2": "Honey",
+   "ingredient_3": "Apricot",
+   "ingredient_4": "Carrot",
+   "ingredient_5": "Cress"
+ },
+ {
+   "id": 30,
+   "world": 8,
+   "stage": "8-5",
+   "ingredient_1": "Bananas",
+   "ingredient_2": "Carbonated Water",
+   "ingredient_3": "Apple",
+   "ingredient_4": "Lemon",
+   "ingredient_5": "Cress"
+ },
+ {
+   "id": 31,
+   "world": 8,
+   "stage": "8-6",
+   "ingredient_1": "Vinegar",
+   "ingredient_2": "Honey",
+   "ingredient_3": "Apricot",
+   "ingredient_4": "Onion",
+   "ingredient_5": "Pumpkin"
+ },
+ {
+   "id": 32,
+   "world": 9,
+   "stage": "9-1",
+   "ingredient_1": "Bananas",
+   "ingredient_2": "Cress",
+   "ingredient_3": "Peach",
+   "ingredient_4": "Yogurt",
+   "ingredient_5": "Honey"
+ },
+ {
+   "id": 33,
+   "world": 9,
+   "stage": "9-2",
+   "ingredient_1": "Mango",
+   "ingredient_2": "Papaya",
+   "ingredient_3": "Chia Seeds",
+   "ingredient_4": "Orange",
+   "ingredient_5": "Carbonated Water"
+ },
+ {
+   "id": 34,
+   "world": 9,
+   "stage": "9-3",
+   "ingredient_1": "Bananas",
+   "ingredient_2": "Cress",
+   "ingredient_3": "Peach",
+   "ingredient_4": "Yogurt",
+   "ingredient_5": "Papaya"
+ },
+ {
+   "id": 35,
+   "world": 9,
+   "stage": "9-4",
+   "ingredient_1": "Mango",
+   "ingredient_2": "Papaya",
+   "ingredient_3": "Chia Seeds",
+   "ingredient_4": "Orange",
+   "ingredient_5": "Bananas"
+ },
+ {
+   "id": 36,
+   "world": 9,
+   "stage": "9-5",
+   "ingredient_1": "Bananas",
+   "ingredient_2": "Cress",
+   "ingredient_3": "Peach",
+   "ingredient_4": "Lemon",
+   "ingredient_5": "Honey"
+ },
+ {
+   "id": 37,
+   "world": 9,
+   "stage": "9-6",
+   "ingredient_1": "Mango",
+   "ingredient_2": "Papaya",
+   "ingredient_3": "Chia Seeds",
+   "ingredient_4": "Orange",
+   "ingredient_5": "Bananas"
+ },
+ {
+   "id": 38,
+   "world": 10,
+   "stage": "10-1",
+   "ingredient_1": "Milk",
+   "ingredient_2": "Green Tea Leaves",
+   "ingredient_3": "Carbonated Water",
+   "ingredient_4": "Onion",
+   "ingredient_5": "Cress"
+ },
+ {
+   "id": 39,
+   "world": 10,
+   "stage": "10-2",
+   "ingredient_1": "Lemon",
+   "ingredient_2": "Matcha Powder",
+   "ingredient_3": "Vanilla Ice Cream",
+   "ingredient_4": "Melon",
+   "ingredient_5": "Beefsteak Plant"
+ },
+ {
+   "id": 40,
+   "world": 11,
+   "stage": "11-1",
+   "ingredient_1": "Beefsteak Plant",
+   "ingredient_2": "Spinach",
+   "ingredient_3": "Vanilla Ice Cream",
+   "ingredient_4": "Melon",
+   "ingredient_5": "Mango"
+ },
+ {
+   "id": 41,
+   "world": 11,
+   "stage": "11-2",
+   "ingredient_1": "Chard",
+   "ingredient_2": "Basil",
+   "ingredient_3": "Mint",
+   "ingredient_4": "Asparagus",
+   "ingredient_5": "Green Tea Leaves"
+ },
+ {
+   "id": 42,
+   "world": 11,
+   "stage": "11-3",
+   "ingredient_1": "Carbonated Water",
+   "ingredient_2": "Spinach",
+   "ingredient_3": "Soy Milk",
+   "ingredient_4": "Cocoa",
+   "ingredient_5": "Mango"
+ },
+ {
+   "id": 43,
+   "world": 11,
+   "stage": "11-4",
+   "ingredient_1": "Chard",
+   "ingredient_2": "Basil",
+   "ingredient_3": "Mint",
+   "ingredient_4": "Asparagus",
+   "ingredient_5": "Green Tea Leaves"
+ },
+ {
+   "id": 44,
+   "world": 11,
+   "stage": "11-5",
+   "ingredient_1": "Beefsteak Plant",
+   "ingredient_2": "Spinach",
+   "ingredient_3": "Hojicha Leaves",
+   "ingredient_4": "Vinegar",
+   "ingredient_5": "Mango"
+ },
+ {
+   "id": 45,
+   "world": 11,
+   "stage": "11-6",
+   "ingredient_1": "Chard",
+   "ingredient_2": "Basil",
+   "ingredient_3": "Mango",
+   "ingredient_4": "Asparagus",
+   "ingredient_5": "Beefsteak Plant"
+ },
+ {
+   "id": 46,
+   "world": 11,
+   "stage": "11-7",
+   "ingredient_1": "Beefsteak Plant",
+   "ingredient_2": "Spinach",
+   "ingredient_3": "Soy Milk",
+   "ingredient_4": "Vinegar",
+   "ingredient_5": "Mango"
+ },
+ {
+   "id": 47,
+   "world": 12,
+   "stage": "12-1",
+   "ingredient_1": "Milk",
+   "ingredient_2": "Pomegranate",
+   "ingredient_3": "Yogurt",
+   "ingredient_4": "Blueberries",
+   "ingredient_5": "Apricot"
+ },
+ {
+   "id": 48,
+   "world": 12,
+   "stage": "12-2",
+   "ingredient_1": "Orange",
+   "ingredient_2": "Almond Milk",
+   "ingredient_3": "Sugar",
+   "ingredient_4": "Kefir Grains",
+   "ingredient_5": "Cocoa"
+ },
+ {
+   "id": 49,
+   "world": 12,
+   "stage": "12-3",
+   "ingredient_1": "Hojicha Leaves",
+   "ingredient_2": "Watermelon",
+   "ingredient_3": "Chard",
+   "ingredient_4": "Basil",
+   "ingredient_5": "Mint"
+ },
+ {
+   "id": 50,
+   "world": 12,
+   "stage": "12-4",
+   "ingredient_1": "Milk",
+   "ingredient_2": "Pomegranate",
+   "ingredient_3": "Yogurt",
+   "ingredient_4": "Blueberries",
+   "ingredient_5": "Apricot"
+ },
+ {
+   "id": 51,
+   "world": 12,
+   "stage": "12-5",
+   "ingredient_1": "Orange",
+   "ingredient_2": "Almond Milk",
+   "ingredient_3": "Sugar",
+   "ingredient_4": "Kefir Grains",
+   "ingredient_5": "Cocoa"
+ },
+ {
+   "id": 52,
+   "world": 12,
+   "stage": "12-6",
+   "ingredient_1": "Hojicha Leaves",
+   "ingredient_2": "Watermelon",
+   "ingredient_3": "Chard",
+   "ingredient_4": "Basil",
+   "ingredient_5": "Mint"
+ },
+ {
+   "id": 53,
+   "world": 14,
+   "stage": "14-1",
+   "ingredient_1": "Spinach",
+   "ingredient_2": "Bananas",
+   "ingredient_3": "Arugula",
+   "ingredient_4": "Ashitaba",
+   "ingredient_5": "Dragon Fruit"
+ },
+ {
+   "id": 54,
+   "world": 14,
+   "stage": "14-2",
+   "ingredient_1": "Milk",
+   "ingredient_2": "Soy Milk",
+   "ingredient_3": "Black Tea Leaves",
+   "ingredient_4": "Corn",
+   "ingredient_5": "Caramel"
+ },
+ {
+   "id": 55,
+   "world": 14,
+   "stage": "14-3",
+   "ingredient_1": "Coffee Beans",
+   "ingredient_2": "Cinnamon",
+   "ingredient_3": "Corn",
+   "ingredient_4": "Pineapple",
+   "ingredient_5": "Grapefruit"
+ },
+ {
+   "id": 56,
+   "world": 14,
+   "stage": "14-4",
+   "ingredient_1": "Cinnamon",
+   "ingredient_2": "Fig",
+   "ingredient_3": "Spinach",
+   "ingredient_4": "Bananas",
+   "ingredient_5": "Arugula"
+ },
+ {
+   "id": 57,
+   "world": 14,
+   "stage": "14-5",
+   "ingredient_1": "Ashitaba",
+   "ingredient_2": "Dragon Fruit",
+   "ingredient_3": "Milk",
+   "ingredient_4": "Soy Milk",
+   "ingredient_5": "Black Tea Leaves"
+ },
+ {
+   "id": 58,
+   "world": 14,
+   "stage": "14-6",
+   "ingredient_1": "Cabbage",
+   "ingredient_2": "Caramel",
+   "ingredient_3": "Coffee Beans",
+   "ingredient_4": "Peach",
+   "ingredient_5": "Corn"
+ },
+ {
+   "id": 59,
+   "world": 14,
+   "stage": "14-7",
+   "ingredient_1": "Pineapple",
+   "ingredient_2": "Grapefruit",
+   "ingredient_3": "Corn",
+   "ingredient_4": "Ginger",
+   "ingredient_5": "Spinach"
+ },
+ {
+   "id": 60,
+   "world": 14,
+   "stage": "14-8",
+   "ingredient_1": "Bananas",
+   "ingredient_2": "Arugula",
+   "ingredient_3": "Ashitaba",
+   "ingredient_4": "Dragon Fruit",
+   "ingredient_5": "Milk"
+ },
+ {
+   "id": 61,
+   "world": 15,
+   "stage": "15-1",
+   "ingredient_1": "Soy Milk",
+   "ingredient_2": "Black Tea Leaves",
+   "ingredient_3": "Cabbage",
+   "ingredient_4": "Caramel",
+   "ingredient_5": "Coffee Beans"
+ },
+ {
+   "id": 62,
+   "world": 15,
+   "stage": "15-2",
+   "ingredient_1": "Bananas",
+   "ingredient_2": "Apricot",
+   "ingredient_3": "Vanilla Ice Cream",
+   "ingredient_4": "Black Tea Leaves",
+   "ingredient_5": "Arugula"
+ },
+ {
+   "id": 63,
+   "world": 15,
+   "stage": "15-3",
+   "ingredient_1": "Cinnamon",
+   "ingredient_2": "Guava",
+   "ingredient_3": "Ginger",
+   "ingredient_4": "Persimmon",
+   "ingredient_5": "Lemongrass"
+ },
+ {
+   "id": 64,
+   "world": 15,
+   "stage": "15-4",
+   "ingredient_1": "Pineapple",
+   "ingredient_2": "Persimmon",
+   "ingredient_3": "Soy Milk",
+   "ingredient_4": "Black Tea Leaves",
+   "ingredient_5": "Arugula"
+ },
+ {
+   "id": 65,
+   "world": 15,
+   "stage": "15-5",
+   "ingredient_1": "Soy Milk",
+   "ingredient_2": "Black Tea Leaves",
+   "ingredient_3": "Cabbage",
+   "ingredient_4": "Caramel",
+   "ingredient_5": "Coffee Beans"
+ },
+ {
+   "id": 66,
+   "world": 15,
+   "stage": "15-6",
+   "ingredient_1": "Bananas",
+   "ingredient_2": "Apricot",
+   "ingredient_3": "Vanilla Ice Cream",
+   "ingredient_4": "Black Tea Leaves",
+   "ingredient_5": "Coffee Beans"
+ },
+ {
+   "id": 67,
+   "world": 15,
+   "stage": "15-7",
+   "ingredient_1": "Arugula",
+   "ingredient_2": "Pineapple",
+   "ingredient_3": "Ginger",
+   "ingredient_4": "Persimmon",
+   "ingredient_5": "Lemongrass"
+ },
+ {
+   "id": 68,
+   "world": 15,
+   "stage": "15-8",
+   "ingredient_1": "Guava",
+   "ingredient_2": "Milk",
+   "ingredient_3": "Soy Milk",
+   "ingredient_4": "Black Tea Leaves",
+   "ingredient_5": "Cabbage"
+ },
+ {
+   "id": 69,
+   "world": 16,
+   "stage": "16-1",
+   "ingredient_1": "Soy Milk",
+   "ingredient_2": "Arugula",
+   "ingredient_3": "Prunes",
+   "ingredient_4": "Cranberries",
+   "ingredient_5": "Black Tea Leaves"
+ },
+ {
+   "id": 70,
+   "world": 16,
+   "stage": "16-2",
+   "ingredient_1": "Cinnamon",
+   "ingredient_2": "Black Currants",
+   "ingredient_3": "Radicchio",
+   "ingredient_4": "Lavender",
+   "ingredient_5": "Bananas"
+ },
+ {
+   "id": 71,
+   "world": 16,
+   "stage": "16-3",
+   "ingredient_1": "Soy Milk",
+   "ingredient_2": "Blueberries",
+   "ingredient_3": "Arugula",
+   "ingredient_4": "Cranberries",
+   "ingredient_5": "Black Tea Leaves"
+ },
+ {
+   "id": 72,
+   "world": 16,
+   "stage": "16-4",
+   "ingredient_1": "Cinnamon",
+   "ingredient_2": "Black Currants",
+   "ingredient_3": "Radicchio",
+   "ingredient_4": "Guava",
+   "ingredient_5": "Bananas"
+ },
+ {
+   "id": 73,
+   "world": 16,
+   "stage": "16-5",
+   "ingredient_1": "Soy Milk",
+   "ingredient_2": "Arugula",
+   "ingredient_3": "Prunes",
+   "ingredient_4": "Cranberries",
+   "ingredient_5": "Black Tea Leaves"
+ },
+ {
+   "id": 74,
+   "world": 16,
+   "stage": "16-6",
+   "ingredient_1": "Cinnamon",
+   "ingredient_2": "Black Currants",
+   "ingredient_3": "Radicchio",
+   "ingredient_4": "Lavender",
+   "ingredient_5": "Bananas"
+ },
+ {
+   "id": 75,
+   "world": 16,
+   "stage": "16-7",
+   "ingredient_1": "Soy Milk",
+   "ingredient_2": "Blueberries",
+   "ingredient_3": "Prunes",
+   "ingredient_4": "Arugula",
+   "ingredient_5": "Black Tea Leaves"
+ },
+ {
+   "id": 76,
+   "world": 17,
+   "stage": "17-1",
+   "ingredient_1": "Grapes",
+   "ingredient_2": "Arugula",
+   "ingredient_3": "Raisins",
+   "ingredient_4": "Vanilla Ice Cream",
+   "ingredient_5": "Black Currants"
+ },
+ {
+   "id": 77,
+   "world": 17,
+   "stage": "17-2",
+   "ingredient_1": "Persimmon",
+   "ingredient_2": "Cinnamon",
+   "ingredient_3": "Lemongrass",
+   "ingredient_4": "Radicchio",
+   "ingredient_5": "Arugula"
+ },
+ {
+   "id": 78,
+   "world": 17,
+   "stage": "17-3",
+   "ingredient_1": "Grapes",
+   "ingredient_2": "Blueberries",
+   "ingredient_3": "Raisins",
+   "ingredient_4": "Black Currants",
+   "ingredient_5": "Prunes"
+ },
+ {
+   "id": 79,
+   "world": 17,
+   "stage": "17-4",
+   "ingredient_1": "Black Tea Leaves",
+   "ingredient_2": "Arugula",
+   "ingredient_3": "Lemongrass",
+   "ingredient_4": "Radicchio",
+   "ingredient_5": "Soy Milk"
+ },
+ {
+   "id": 80,
+   "world": 17,
+   "stage": "17-5",
+   "ingredient_1": "Grapes",
+   "ingredient_2": "Blueberries",
+   "ingredient_3": "Arugula",
+   "ingredient_4": "Vanilla Ice Cream",
+   "ingredient_5": "Cranberries"
+ },
+ {
+   "id": 81,
+   "world": 18,
+   "stage": "18-1",
+   "ingredient_1": "Strawberries",
+   "ingredient_2": "Onion",
+   "ingredient_3": "Apple",
+   "ingredient_4": "Cream Cheese",
+   "ingredient_5": "Vinegar"
+ },
+ {
+   "id": 82,
+   "world": 18,
+   "stage": "18-2",
+   "ingredient_1": "Sugar",
+   "ingredient_2": "Kale",
+   "ingredient_3": "Fig",
+   "ingredient_4": "Raspberries",
+   "ingredient_5": "Carrot"
+ },
+ {
+   "id": 83,
+   "world": 18,
+   "stage": "18-3",
+   "ingredient_1": "Cream Cheese",
+   "ingredient_2": "Blood Orange",
+   "ingredient_3": "Cherries",
+   "ingredient_4": "Plum",
+   "ingredient_5": "Grapes"
+ },
+ {
+   "id": 84,
+   "world": 18,
+   "stage": "18-4",
+   "ingredient_1": "Strawberries",
+   "ingredient_2": "Onion",
+   "ingredient_3": "Cream Cheese",
+   "ingredient_4": "Tomato",
+   "ingredient_5": "Kale"
+ },
+ {
+   "id": 85,
+   "world": 18,
+   "stage": "18-5",
+   "ingredient_1": "Sugar",
+   "ingredient_2": "Cinnamon",
+   "ingredient_3": "Blood Orange",
+   "ingredient_4": "Cocoa",
+   "ingredient_5": "Kale"
+ },
+ {
+   "id": 86,
+   "world": 19,
+   "stage": "19-1",
+   "ingredient_1": "Strawberries",
+   "ingredient_2": "Apple",
+   "ingredient_3": "Pomegranate",
+   "ingredient_4": "Tomato",
+   "ingredient_5": "Vanilla Ice Cream"
+ },
+ {
+   "id": 87,
+   "world": 19,
+   "stage": "19-2",
+   "ingredient_1": "Cranberries",
+   "ingredient_2": "Black Tea Leaves",
+   "ingredient_3": "Cinnamon",
+   "ingredient_4": "Lemongrass",
+   "ingredient_5": "Strawberries"
+ },
+ {
+   "id": 88,
+   "world": 19,
+   "stage": "19-3",
+   "ingredient_1": "Strawberries",
+   "ingredient_2": "Apple",
+   "ingredient_3": "Pomegranate",
+   "ingredient_4": "Cherries",
+   "ingredient_5": "Kale"
+ },
+ {
+   "id": 89,
+   "world": 19,
+   "stage": "19-4",
+   "ingredient_1": "Kale",
+   "ingredient_2": "Lemon",
+   "ingredient_3": "Blueberries",
+   "ingredient_4": "Persimmon",
+   "ingredient_5": "Pomegranate"
+ },
+ {
+   "id": 90,
+   "world": 19,
+   "stage": "19-5",
+   "ingredient_1": "Lemon",
+   "ingredient_2": "Yogurt",
+   "ingredient_3": "Pomegranate",
+   "ingredient_4": "Cherries",
+   "ingredient_5": "Blueberries"
+ },
+ {
+   "id": 91,
+   "world": 19,
+   "stage": "19-6",
+   "ingredient_1": "Cranberries",
+   "ingredient_2": "Kale",
+   "ingredient_3": "Cinnamon",
+   "ingredient_4": "Lemongrass",
+   "ingredient_5": "Strawberries"
+ },
+ {
+   "id": 92,
+   "world": 19,
+   "stage": "19-7",
+   "ingredient_1": "Strawberries",
+   "ingredient_2": "Apple",
+   "ingredient_3": "Pomegranate",
+   "ingredient_4": "Tomato",
+   "ingredient_5": "Vanilla Ice Cream"
+ },
+ {
+   "id": 93,
+   "world": 20,
+   "stage": "20-1",
+   "ingredient_1": "Milk",
+   "ingredient_2": "Black Tea Leaves",
+   "ingredient_3": "Arugula",
+   "ingredient_4": "Cinnamon",
+   "ingredient_5": "Persimmon"
+ },
+ {
+   "id": 94,
+   "world": 20,
+   "stage": "20-2",
+   "ingredient_1": "Kiwi",
+   "ingredient_2": "Pear",
+   "ingredient_3": "Avocado",
+   "ingredient_4": "Celery",
+   "ingredient_5": "Lettuce"
+ },
+ {
+   "id": 95,
+   "world": 20,
+   "stage": "20-3",
+   "ingredient_1": "Lime",
+   "ingredient_2": "Strawberries",
+   "ingredient_3": "Apple",
+   "ingredient_4": "Cinnamon",
+   "ingredient_5": "Tomato"
+ },
+ {
+   "id": 96,
+   "world": 20,
+   "stage": "20-4",
+   "ingredient_1": "Milk",
+   "ingredient_2": "Lettuce",
+   "ingredient_3": "Arugula",
+   "ingredient_4": "Cherries",
+   "ingredient_5": "Lemongrass"
+ },
+ {
+   "id": 97,
+   "world": 20,
+   "stage": "20-5",
+   "ingredient_1": "Kiwi",
+   "ingredient_2": "Pear",
+   "ingredient_3": "Avocado",
+   "ingredient_4": "Cocoa",
+   "ingredient_5": "Lettuce"
+ },
+ {
+   "id": 98,
+   "world": 20,
+   "stage": "20-6",
+   "ingredient_1": "Lime",
+   "ingredient_2": "Bananas",
+   "ingredient_3": "Orange",
+   "ingredient_4": "Cinnamon",
+   "ingredient_5": "Papaya"
+ },
+ {
+   "id": 99,
+   "world": 21,
+   "stage": "21-1",
+   "ingredient_1": "Peach",
+   "ingredient_2": "Kiwi",
+   "ingredient_3": "Milk",
+   "ingredient_4": "Apple",
+   "ingredient_5": "Arugula"
+ },
+ {
+   "id": 100,
+   "world": 21,
+   "stage": "21-2",
+   "ingredient_1": "Pear",
+   "ingredient_2": "Kale",
+   "ingredient_3": "Celery",
+   "ingredient_4": "Lettuce",
+   "ingredient_5": "Lime"
+ },
+ {
+   "id": 101,
+   "world": 21,
+   "stage": "21-3",
+   "ingredient_1": "Peach",
+   "ingredient_2": "Vanilla Ice Cream",
+   "ingredient_3": "Milk",
+   "ingredient_4": "Black Tea Leaves",
+   "ingredient_5": "Arugula"
+ },
+ {
+   "id": 102,
+   "world": 21,
+   "stage": "21-4",
+   "ingredient_1": "Pear",
+   "ingredient_2": "Avocado",
+   "ingredient_3": "Persimmon",
+   "ingredient_4": "Lettuce",
+   "ingredient_5": "Lime"
+ },
+ {
+   "id": 103,
+   "world": 21,
+   "stage": "21-5",
+   "ingredient_1": "Peach",
+   "ingredient_2": "Cinnamon",
+   "ingredient_3": "Lemongrass",
+   "ingredient_4": "Apple",
+   "ingredient_5": "Arugula"
+ },
+ {
+   "id": 104,
+   "world": 21,
+   "stage": "21-6",
+   "ingredient_1": "Pear",
+   "ingredient_2": "Avocado",
+   "ingredient_3": "Kale",
+   "ingredient_4": "Black Tea Leaves",
+   "ingredient_5": "Lime"
+ },
+ {
+   "id": 105,
+   "world": 22,
+   "stage": "22-1",
+   "ingredient_1": "Spinach",
+   "ingredient_2": "Bananas",
+   "ingredient_3": "Tomato",
+   "ingredient_4": "Lemon",
+   "ingredient_5": "Blueberries"
+ },
+ {
+   "id": 106,
+   "world": 22,
+   "stage": "22-2",
+   "ingredient_1": "Matcha Powder",
+   "ingredient_2": "Vanilla Ice Cream",
+   "ingredient_3": "Ashitaba",
+   "ingredient_4": "Fig",
+   "ingredient_5": "Pineapple"
+ },
+ {
+   "id": 107,
+   "world": 22,
+   "stage": "22-3",
+   "ingredient_1": "Grapefruit",
+   "ingredient_2": "Radicchio",
+   "ingredient_3": "Lavender",
+   "ingredient_4": "Parsley",
+   "ingredient_5": "Peach"
+ },
+ {
+   "id": 108,
+   "world": 22,
+   "stage": "22-4",
+   "ingredient_1": "Spinach",
+   "ingredient_2": "Bananas",
+   "ingredient_3": "Tomato",
+   "ingredient_4": "Lemon",
+   "ingredient_5": "Blueberries"
+ },
+ {
+   "id": 109,
+   "world": 22,
+   "stage": "22-5",
+   "ingredient_1": "Matcha Powder",
+   "ingredient_2": "Parsley",
+   "ingredient_3": "Ashitaba",
+   "ingredient_4": "Fig",
+   "ingredient_5": "Pineapple"
+ },
+ {
+   "id": 110,
+   "world": 22,
+   "stage": "22-6",
+   "ingredient_1": "Cocoa",
+   "ingredient_2": "Vanilla Ice Cream",
+   "ingredient_3": "Radicchio",
+   "ingredient_4": "Fig",
+   "ingredient_5": "Lavender"
+ },
+ {
+   "id": 111,
+   "world": 22,
+   "stage": "22-7",
+   "ingredient_1": "Spinach",
+   "ingredient_2": "Bananas",
+   "ingredient_3": "Tomato",
+   "ingredient_4": "Lemon",
+   "ingredient_5": "Blueberries"
+ },
+ {
+   "id": 112,
+   "world": 22,
+   "stage": "22-8",
+   "ingredient_1": "Matcha Powder",
+   "ingredient_2": "Blueberries",
+   "ingredient_3": "Ashitaba",
+   "ingredient_4": "Fig",
+   "ingredient_5": "Pineapple"
+ },
+ {
+   "id": 113,
+   "world": 22,
+   "stage": "22-9",
+   "ingredient_1": "Matcha Powder",
+   "ingredient_2": "Vanilla Ice Cream",
+   "ingredient_3": "Ashitaba",
+   "ingredient_4": "Fig",
+   "ingredient_5": "Peach"
+ },
+ {
+   "id": 114,
+   "world": 23,
+   "stage": "23-1",
+   "ingredient_1": "Chard",
+   "ingredient_2": "Basil",
+   "ingredient_3": "Wheatgrass",
+   "ingredient_4": "Spinach",
+   "ingredient_5": "Bananas"
+ },
+ {
+   "id": 115,
+   "world": 23,
+   "stage": "23-2",
+   "ingredient_1": "Chard",
+   "ingredient_2": "Basil",
+   "ingredient_3": "Wheatgrass",
+   "ingredient_4": "Tomato",
+   "ingredient_5": "Lemon"
+ },
+ {
+   "id": 116,
+   "world": 23,
+   "stage": "23-3",
+   "ingredient_1": "Chard",
+   "ingredient_2": "Basil",
+   "ingredient_3": "Wheatgrass",
+   "ingredient_4": "Blueberries",
+   "ingredient_5": "Matcha Powder"
+ },
+ {
+   "id": 117,
+   "world": 23,
+   "stage": "23-4",
+   "ingredient_1": "Chard",
+   "ingredient_2": "Basil",
+   "ingredient_3": "Wheatgrass",
+   "ingredient_4": "Vanilla Ice Cream",
+   "ingredient_5": "Ashitaba"
+ },
+ {
+   "id": 118,
+   "world": 23,
+   "stage": "23-5",
+   "ingredient_1": "Chard",
+   "ingredient_2": "Basil",
+   "ingredient_3": "Wheatgrass",
+   "ingredient_4": "Fig",
+   "ingredient_5": "Pineapple"
+ },
+ {
+   "id": 119,
+   "world": 24,
+   "stage": "1-1",
+   "ingredient_1": "Spinach",
+   "ingredient_2": "Bananas",
+   "ingredient_3": "Tomato",
+   "ingredient_4": "Lemon",
+   "ingredient_5": "Blueberries"
+ },
+ {
+   "id": 120,
+   "world": 24,
+   "stage": "1-2",
+   "ingredient_1": "Matcha Powder",
+   "ingredient_2": "Basil",
+   "ingredient_3": "Ashitaba",
+   "ingredient_4": "Fig",
+   "ingredient_5": "Peach"
+ },
+ {
+   "id": 121,
+   "world": 25,
+   "stage": "2-1",
+   "ingredient_1": "Chard",
+   "ingredient_2": "Basil",
+   "ingredient_3": "Wheatgrass",
+   "ingredient_4": "Vanilla Ice Cream",
+   "ingredient_5": "Ashitaba"
+ },
+ {
+   "id": 122,
+   "world": 25,
+   "stage": "2-2",
+   "ingredient_1": "Spinach",
+   "ingredient_2": "Bananas",
+   "ingredient_3": "Tomato",
+   "ingredient_4": "Basil",
+   "ingredient_5": "Blueberries"
+ },
+ {
+   "id": 123,
+   "world": 25,
+   "stage": "2-3",
+   "ingredient_1": "Grapes",
+   "ingredient_2": "Blueberries",
+   "ingredient_3": "Chard",
+   "ingredient_4": "Black Currants",
+   "ingredient_5": "Prunes"
+ },
+ {
+   "id": 124,
+   "world": 26,
+   "stage": "3-1",
+   "ingredient_1": "Cranberries",
+   "ingredient_2": "Ashitaba",
+   "ingredient_3": "Cinnamon",
+   "ingredient_4": "Lemongrass",
+   "ingredient_5": "Strawberries"
+ },
+ {
+   "id": 125,
+   "world": 26,
+   "stage": "3-2",
+   "ingredient_1": "Matcha Powder",
+   "ingredient_2": "Vanilla Ice Cream",
+   "ingredient_3": "Ashitaba",
+   "ingredient_4": "Fig",
+   "ingredient_5": "Peach"
+ },
+ {
+   "id": 126,
+   "world": 26,
+   "stage": "3-3",
+   "ingredient_1": "Milk",
+   "ingredient_2": "Green Tea Leaves",
+   "ingredient_3": "Carbonated Water",
+   "ingredient_4": "Onion",
+   "ingredient_5": "Cress"
+ },
+ {
+   "id": 127,
+   "world": 26,
+   "stage": "3-4",
+   "ingredient_1": "Kiwi",
+   "ingredient_2": "Pear",
+   "ingredient_3": "Avocado",
+   "ingredient_4": "Celery",
+   "ingredient_5": "Lettuce"
+ },
+ {
+   "id": 128,
+   "world": 27,
+   "stage": "4-1",
+   "ingredient_1": "Kale",
+   "ingredient_2": "Strawberries",
+   "ingredient_3": "Milk",
+   "ingredient_4": "White Sesame Seeds",
+   "ingredient_5": "Gelatin"
+ },
+ {
+   "id": 129,
+   "world": 27,
+   "stage": "4-2",
+   "ingredient_1": "Grapes",
+   "ingredient_2": "Green Tea Leaves",
+   "ingredient_3": "Bananas",
+   "ingredient_4": "Chard",
+   "ingredient_5": "Strawberries"
+ },
+ {
+   "id": 130,
+   "world": 27,
+   "stage": "4-3",
+   "ingredient_1": "Basil",
+   "ingredient_2": "Raspberries",
+   "ingredient_3": "Milk",
+   "ingredient_4": "White Sesame Seeds",
+   "ingredient_5": "Gelatin"
+ },
+ {
+   "id": 131,
+   "world": 27,
+   "stage": "4-4",
+   "ingredient_1": "Grapes",
+   "ingredient_2": "Green Tea Leaves",
+   "ingredient_3": "Bananas",
+   "ingredient_4": "Wheatgrass",
+   "ingredient_5": "Strawberries"
+ },
+ {
+   "id": 132,
+   "world": 27,
+   "stage": "4-5",
+   "ingredient_1": "Ashitaba",
+   "ingredient_2": "Raspberries",
+   "ingredient_3": "Milk",
+   "ingredient_4": "White Sesame Seeds",
+   "ingredient_5": "Gelatin"
+ },
+ {
+   "id": 133,
+   "world": 27,
+   "stage": "4-6",
+   "ingredient_1": "Grapes",
+   "ingredient_2": "Green Tea Leaves",
+   "ingredient_3": "Bananas",
+   "ingredient_4": "Cress",
+   "ingredient_5": "Raspberries"
+ },
+ {
+   "id": 134,
+   "world": 28,
+   "stage": "5-1",
+   "ingredient_1": "Arugula",
+   "ingredient_2": "Fennel",
+   "ingredient_3": "Pomegranate",
+   "ingredient_4": "Apple",
+   "ingredient_5": "Onion"
+ },
+ {
+   "id": 135,
+   "world": 28,
+   "stage": "5-2",
+   "ingredient_1": "Milk",
+   "ingredient_2": "Carrot",
+   "ingredient_3": "Spinach",
+   "ingredient_4": "Bananas",
+   "ingredient_5": "Green Tea Leaves"
+ },
+ {
+   "id": 136,
+   "world": 28,
+   "stage": "5-3",
+   "ingredient_1": "Lemon",
+   "ingredient_2": "Tomato",
+   "ingredient_3": "Fennel",
+   "ingredient_4": "Apple",
+   "ingredient_5": "White Sesame Seeds"
+ },
+ {
+   "id": 137,
+   "world": 28,
+   "stage": "5-4",
+   "ingredient_1": "Kale",
+   "ingredient_2": "Carrot",
+   "ingredient_3": "Strawberries",
+   "ingredient_4": "Grapes",
+   "ingredient_5": "Gelatin"
+ },
+ {
+   "id": 138,
+   "world": 28,
+   "stage": "5-5",
+   "ingredient_1": "Lemon",
+   "ingredient_2": "Fennel",
+   "ingredient_3": "Pomegranate",
+   "ingredient_4": "Apple",
+   "ingredient_5": "Onion"
+ },
+ {
+   "id": 139,
+   "world": 28,
+   "stage": "5-6",
+   "ingredient_1": "Chard",
+   "ingredient_2": "Carrot",
+   "ingredient_3": "Raspberries",
+   "ingredient_4": "Black Currants",
+   "ingredient_5": "Milk"
+ },
+ {
+   "id": 140,
+   "world": 28,
+   "stage": "5-7",
+   "ingredient_1": "Wheatgrass",
+   "ingredient_2": "Vine Spinach",
+   "ingredient_3": "Pomegranate",
+   "ingredient_4": "Fennel",
+   "ingredient_5": "Onion"
+ },
+ {
+   "id": 141,
+   "world": 28,
+   "stage": "5-8",
+   "ingredient_1": "Carbonated Water",
+   "ingredient_2": "Ashitaba",
+   "ingredient_3": "Strawberries",
+   "ingredient_4": "Bananas",
+   "ingredient_5": "Green Tea Leaves"
+ },
+ {
+   "id": 142,
+   "world": 30,
+   "stage": "7-1",
+   "ingredient_1": "Milk",
+   "ingredient_2": "Grapes",
+   "ingredient_3": "Carrot",
+   "ingredient_4": "Cress",
+   "ingredient_5": "Onion"
+ },
+ {
+   "id": 143,
+   "world": 30,
+   "stage": "7-2",
+   "ingredient_1": "Pumpkin",
+   "ingredient_2": "Soy Milk",
+   "ingredient_3": "Black Currants",
+   "ingredient_4": "Blueberries",
+   "ingredient_5": "Prunes"
+ },
+ {
+   "id": 144,
+   "world": 30,
+   "stage": "7-3",
+   "ingredient_1": "Raisins",
+   "ingredient_2": "Watermelon",
+   "ingredient_3": "Soy Milk",
+   "ingredient_4": "Vine Spinach",
+   "ingredient_5": "Arugula"
+ },
+ {
+   "id": 145,
+   "world": 31,
+   "stage": "8-1",
+   "ingredient_1": "Bananas",
+   "ingredient_2": "Carbonated Water",
+   "ingredient_3": "Grapes",
+   "ingredient_4": "Yogurt",
+   "ingredient_5": "Spinach"
+ },
+ {
+   "id": 146,
+   "world": 31,
+   "stage": "8-2",
+   "ingredient_1": "Vinegar",
+   "ingredient_2": "Honey",
+   "ingredient_3": "Apricot",
+   "ingredient_4": "Milk",
+   "ingredient_5": "Black Currants"
+ },
+ {
+   "id": 147,
+   "world": 31,
+   "stage": "8-3",
+   "ingredient_1": "Soy Milk",
+   "ingredient_2": "Yogurt",
+   "ingredient_3": "Vine Spinach",
+   "ingredient_4": "Blueberries",
+   "ingredient_5": "Kale"
+ },
+ {
+   "id": 148,
+   "world": 31,
+   "stage": "8-4",
+   "ingredient_1": "Vinegar",
+   "ingredient_2": "Grapes",
+   "ingredient_3": "Apricot",
+   "ingredient_4": "Carrot",
+   "ingredient_5": "Chard"
+ },
+ {
+   "id": 149,
+   "world": 31,
+   "stage": "8-5",
+   "ingredient_1": "Bananas",
+   "ingredient_2": "Carbonated Water",
+   "ingredient_3": "Apple",
+   "ingredient_4": "Black Currants",
+   "ingredient_5": "Basil"
+ },
+ {
+   "id": 150,
+   "world": 31,
+   "stage": "8-6",
+   "ingredient_1": "Vinegar",
+   "ingredient_2": "Honey",
+   "ingredient_3": "Vine Spinach",
+   "ingredient_4": "Onion",
+   "ingredient_5": "Pumpkin"
+ },
+ {
+   "id": 151,
+   "world": 32,
+   "stage": "9-1",
+   "ingredient_1": "Bananas",
+   "ingredient_2": "Wheatgrass",
+   "ingredient_3": "Guava",
+   "ingredient_4": "Yogurt",
+   "ingredient_5": "Honey"
+ },
+ {
+   "id": 152,
+   "world": 32,
+   "stage": "9-2",
+   "ingredient_1": "Mango",
+   "ingredient_2": "Papaya",
+   "ingredient_3": "Chia Seeds",
+   "ingredient_4": "Strawberries",
+   "ingredient_5": "Carbonated Water"
+ },
+ {
+   "id": 153,
+   "world": 32,
+   "stage": "9-3",
+   "ingredient_1": "Fennel",
+   "ingredient_2": "Ashitaba",
+   "ingredient_3": "Cherries",
+   "ingredient_4": "Raspberries",
+   "ingredient_5": "Papaya"
+ },
+ {
+   "id": 154,
+   "world": 32,
+   "stage": "9-4",
+   "ingredient_1": "Mango",
+   "ingredient_2": "Papaya",
+   "ingredient_3": "Chia Seeds",
+   "ingredient_4": "Orange",
+   "ingredient_5": "Strawberries"
+ },
+ {
+   "id": 155,
+   "world": 32,
+   "stage": "9-5",
+   "ingredient_1": "Raspberries",
+   "ingredient_2": "Cress",
+   "ingredient_3": "Peach",
+   "ingredient_4": "Lemon",
+   "ingredient_5": "Honey"
+ },
+ {
+   "id": 156,
+   "world": 32,
+   "stage": "9-6",
+   "ingredient_1": "Mango",
+   "ingredient_2": "Papaya",
+   "ingredient_3": "Chia Seeds",
+   "ingredient_4": "Orange",
+   "ingredient_5": "Fennel"
+ },
+ {
+   "id": 157,
+   "world": 33,
+   "stage": "10-1",
+   "ingredient_1": "Milk",
+   "ingredient_2": "Green Tea Leaves",
+   "ingredient_3": "Carbonated Water",
+   "ingredient_4": "Onion",
+   "ingredient_5": "Arugula"
+ },
+ {
+   "id": 158,
+   "world": 33,
+   "stage": "10-2",
+   "ingredient_1": "Lemon",
+   "ingredient_2": "Matcha Powder",
+   "ingredient_3": "Vanilla Ice Cream",
+   "ingredient_4": "Melon",
+   "ingredient_5": "Beefsteak Plant"
+ },
+ {
+   "id": 159,
+   "world": 34,
+   "stage": "11-1",
+   "ingredient_1": "Beefsteak Plant",
+   "ingredient_2": "Spinach",
+   "ingredient_3": "Tatsoi",
+   "ingredient_4": "Melon",
+   "ingredient_5": "Mango"
+ },
+ {
+   "id": 160,
+   "world": 34,
+   "stage": "11-2",
+   "ingredient_1": "Chard",
+   "ingredient_2": "Basil",
+   "ingredient_3": "Mint",
+   "ingredient_4": "Asparagus",
+   "ingredient_5": "Green Tea Leaves"
+ },
+ {
+   "id": 161,
+   "world": 34,
+   "stage": "11-3",
+   "ingredient_1": "Carbonated Water",
+   "ingredient_2": "Kale",
+   "ingredient_3": "Lime",
+   "ingredient_4": "Cocoa",
+   "ingredient_5": "Mango"
+ },
+ {
+   "id": 162,
+   "world": 34,
+   "stage": "11-4",
+   "ingredient_1": "Wheatgrass",
+   "ingredient_2": "Tatsoi",
+   "ingredient_3": "Mint",
+   "ingredient_4": "Asparagus",
+   "ingredient_5": "Green Tea Leaves"
+ },
+ {
+   "id": 163,
+   "world": 34,
+   "stage": "11-5",
+   "ingredient_1": "Beefsteak Plant",
+   "ingredient_2": "Ashitaba",
+   "ingredient_3": "Lime",
+   "ingredient_4": "Vinegar",
+   "ingredient_5": "Mango"
+ },
+ {
+   "id": 164,
+   "world": 34,
+   "stage": "11-6",
+   "ingredient_1": "Cress",
+   "ingredient_2": "Arugula",
+   "ingredient_3": "Mango",
+   "ingredient_4": "Asparagus",
+   "ingredient_5": "Beefsteak Plant"
+ },
+ {
+   "id": 165,
+   "world": 34,
+   "stage": "11-7",
+   "ingredient_1": "Beefsteak Plant",
+   "ingredient_2": "Spinach",
+   "ingredient_3": "Soy Milk",
+   "ingredient_4": "Vinegar",
+   "ingredient_5": "Mango"
+ },
+ {
+   "id": 166,
+   "world": 35,
+   "stage": "12-1",
+   "ingredient_1": "Milk",
+   "ingredient_2": "Pomegranate",
+   "ingredient_3": "Tatsoi",
+   "ingredient_4": "Blueberries",
+   "ingredient_5": "Apricot"
+ },
+ {
+   "id": 167,
+   "world": 35,
+   "stage": "12-2",
+   "ingredient_1": "Green Tea Leaves",
+   "ingredient_2": "Almond Milk",
+   "ingredient_3": "Sugar",
+   "ingredient_4": "Kefir Grains",
+   "ingredient_5": "Cocoa"
+ },
+ {
+   "id": 168,
+   "world": 35,
+   "stage": "12-3",
+   "ingredient_1": "Hojicha Leaves",
+   "ingredient_2": "Watermelon",
+   "ingredient_3": "Kale",
+   "ingredient_4": "Lime",
+   "ingredient_5": "Honey"
+ },
+ {
+   "id": 169,
+   "world": 35,
+   "stage": "12-4",
+   "ingredient_1": "Milk",
+   "ingredient_2": "Tatsoi",
+   "ingredient_3": "Yogurt",
+   "ingredient_4": "Blueberries",
+   "ingredient_5": "Apricot"
+ },
+ {
+   "id": 170,
+   "world": 35,
+   "stage": "12-5",
+   "ingredient_1": "Orange",
+   "ingredient_2": "Almond Milk",
+   "ingredient_3": "Green Tea Leaves",
+   "ingredient_4": "Bananas",
+   "ingredient_5": "Cocoa"
+ },
+ {
+   "id": 171,
+   "world": 35,
+   "stage": "12-6",
+   "ingredient_1": "Lime",
+   "ingredient_2": "Guava",
+   "ingredient_3": "Chard",
+   "ingredient_4": "Basil",
+   "ingredient_5": "Mint"
+ },
+ {
+   "id": 172,
+   "world": 37,
+   "stage": "14-1",
+   "ingredient_1": "Spinach",
+   "ingredient_2": "Bananas",
+   "ingredient_3": "Wheatgrass",
+   "ingredient_4": "Ashitaba",
+   "ingredient_5": "Dragon Fruit"
+ },
+ {
+   "id": 173,
+   "world": 37,
+   "stage": "14-2",
+   "ingredient_1": "Milk",
+   "ingredient_2": "Soy Milk",
+   "ingredient_3": "Honey",
+   "ingredient_4": "Tatsoi",
+   "ingredient_5": "Caramel"
+ },
+ {
+   "id": 174,
+   "world": 37,
+   "stage": "14-3",
+   "ingredient_1": "Coffee Beans",
+   "ingredient_2": "Apricot",
+   "ingredient_3": "Corn",
+   "ingredient_4": "Pineapple",
+   "ingredient_5": "Grapefruit"
+ },
+ {
+   "id": 175,
+   "world": 37,
+   "stage": "14-4",
+   "ingredient_1": "Cinnamon",
+   "ingredient_2": "Fig",
+   "ingredient_3": "Ashitaba",
+   "ingredient_4": "Bananas",
+   "ingredient_5": "Cress"
+ },
+ {
+   "id": 176,
+   "world": 37,
+   "stage": "14-5",
+   "ingredient_1": "Arugula",
+   "ingredient_2": "Dragon Fruit",
+   "ingredient_3": "Honey",
+   "ingredient_4": "Soy Milk",
+   "ingredient_5": "Black Tea Leaves"
+ },
+ {
+   "id": 177,
+   "world": 37,
+   "stage": "14-6",
+   "ingredient_1": "Cabbage",
+   "ingredient_2": "Caramel",
+   "ingredient_3": "Coffee Beans",
+   "ingredient_4": "Cherries",
+   "ingredient_5": "Corn"
+ },
+ {
+   "id": 178,
+   "world": 37,
+   "stage": "14-7",
+   "ingredient_1": "Pineapple",
+   "ingredient_2": "Grapefruit",
+   "ingredient_3": "Apricot",
+   "ingredient_4": "Ginger",
+   "ingredient_5": "Spinach"
+ },
+ {
+   "id": 179,
+   "world": 37,
+   "stage": "14-8",
+   "ingredient_1": "Bananas",
+   "ingredient_2": "Kale",
+   "ingredient_3": "Chard",
+   "ingredient_4": "Dragon Fruit",
+   "ingredient_5": "Milk"
+ },
+ {
+   "id": 180,
+   "world": 38,
+   "stage": "15-1",
+   "ingredient_1": "Honey",
+   "ingredient_2": "Black Tea Leaves",
+   "ingredient_3": "Cabbage",
+   "ingredient_4": "Caramel",
+   "ingredient_5": "Coffee Beans"
+ },
+ {
+   "id": 181,
+   "world": 38,
+   "stage": "15-2",
+   "ingredient_1": "Bananas",
+   "ingredient_2": "Apricot",
+   "ingredient_3": "Vanilla Ice Cream",
+   "ingredient_4": "Black Tea Leaves",
+   "ingredient_5": "Basil"
+ },
+ {
+   "id": 182,
+   "world": 38,
+   "stage": "15-3",
+   "ingredient_1": "Cinnamon",
+   "ingredient_2": "Peach",
+   "ingredient_3": "Ginger",
+   "ingredient_4": "Persimmon",
+   "ingredient_5": "Lemongrass"
+ },
+ {
+   "id": 183,
+   "world": 38,
+   "stage": "15-4",
+   "ingredient_1": "Pineapple",
+   "ingredient_2": "Persimmon",
+   "ingredient_3": "Apricot",
+   "ingredient_4": "Black Tea Leaves",
+   "ingredient_5": "Wheatgrass"
+ },
+ {
+   "id": 184,
+   "world": 38,
+   "stage": "15-5",
+   "ingredient_1": "Soy Milk",
+   "ingredient_2": "Honey",
+   "ingredient_3": "Cabbage",
+   "ingredient_4": "Caramel",
+   "ingredient_5": "Coffee Beans"
+ },
+ {
+   "id": 185,
+   "world": 38,
+   "stage": "15-6",
+   "ingredient_1": "Bananas",
+   "ingredient_2": "Apricot",
+   "ingredient_3": "Vanilla Ice Cream",
+   "ingredient_4": "Black Tea Leaves",
+   "ingredient_5": "Coffee Beans"
+ },
+ {
+   "id": 186,
+   "world": 38,
+   "stage": "15-7",
+   "ingredient_1": "Ashitaba",
+   "ingredient_2": "Pineapple",
+   "ingredient_3": "Ginger",
+   "ingredient_4": "Persimmon",
+   "ingredient_5": "Lemongrass"
+ },
+ {
+   "id": 187,
+   "world": 38,
+   "stage": "15-8",
+   "ingredient_1": "Watermelon",
+   "ingredient_2": "Milk",
+   "ingredient_3": "Soy Milk",
+   "ingredient_4": "Black Tea Leaves",
+   "ingredient_5": "Cabbage"
+ },
+ {
+   "id": 188,
+   "world": 39,
+   "stage": "16-1",
+   "ingredient_1": "Soy Milk",
+   "ingredient_2": "Cress",
+   "ingredient_3": "Prunes",
+   "ingredient_4": "Cranberries",
+   "ingredient_5": "Black Tea Leaves"
+ },
+ {
+   "id": 189,
+   "world": 39,
+   "stage": "16-2",
+   "ingredient_1": "Cinnamon",
+   "ingredient_2": "Black Currants",
+   "ingredient_3": "Radicchio",
+   "ingredient_4": "Lavender",
+   "ingredient_5": "Bananas"
+ },
+ {
+   "id": 190,
+   "world": 39,
+   "stage": "16-3",
+   "ingredient_1": "Soy Milk",
+   "ingredient_2": "Blueberries",
+   "ingredient_3": "Arugula",
+   "ingredient_4": "Grapes",
+   "ingredient_5": "Black Tea Leaves"
+ },
+ {
+   "id": 191,
+   "world": 39,
+   "stage": "16-4",
+   "ingredient_1": "Cinnamon",
+   "ingredient_2": "Black Currants",
+   "ingredient_3": "Radicchio",
+   "ingredient_4": "Guava",
+   "ingredient_5": "Bananas"
+ },
+ {
+   "id": 192,
+   "world": 39,
+   "stage": "16-5",
+   "ingredient_1": "Soy Milk",
+   "ingredient_2": "Spinach",
+   "ingredient_3": "Prunes",
+   "ingredient_4": "Vine Spinach",
+   "ingredient_5": "Black Tea Leaves"
+ },
+ {
+   "id": 193,
+   "world": 39,
+   "stage": "16-6",
+   "ingredient_1": "Cinnamon",
+   "ingredient_2": "Grapes",
+   "ingredient_3": "Radicchio",
+   "ingredient_4": "Lavender",
+   "ingredient_5": "Bananas"
+ },
+ {
+   "id": 194,
+   "world": 39,
+   "stage": "16-7",
+   "ingredient_1": "Soy Milk",
+   "ingredient_2": "Blueberries",
+   "ingredient_3": "Vine Spinach",
+   "ingredient_4": "Kale",
+   "ingredient_5": "Black Tea Leaves"
+ },
+ {
+   "id": 195,
+   "world": 40,
+   "stage": "17-1",
+   "ingredient_1": "Grapes",
+   "ingredient_2": "Chard",
+   "ingredient_3": "Raisins",
+   "ingredient_4": "Vanilla Ice Cream",
+   "ingredient_5": "Black Currants"
+ },
+ {
+   "id": 196,
+   "world": 40,
+   "stage": "17-2",
+   "ingredient_1": "Persimmon",
+   "ingredient_2": "Vine Spinach",
+   "ingredient_3": "Cherries",
+   "ingredient_4": "Radicchio",
+   "ingredient_5": "Basil"
+ },
+ {
+   "id": 197,
+   "world": 40,
+   "stage": "17-3",
+   "ingredient_1": "Grapes",
+   "ingredient_2": "Blueberries",
+   "ingredient_3": "Raisins",
+   "ingredient_4": "Black Currants",
+   "ingredient_5": "Prunes"
+ },
+ {
+   "id": 198,
+   "world": 40,
+   "stage": "17-4",
+   "ingredient_1": "Black Tea Leaves",
+   "ingredient_2": "Wheatgrass",
+   "ingredient_3": "Lemongrass",
+   "ingredient_4": "Radicchio",
+   "ingredient_5": "Vine Spinach"
+ },
+ {
+   "id": 199,
+   "world": 40,
+   "stage": "17-5",
+   "ingredient_1": "Grapes",
+   "ingredient_2": "Blueberries",
+   "ingredient_3": "Ashitaba",
+   "ingredient_4": "Vanilla Ice Cream",
+   "ingredient_5": "Cranberries"
+ },
+ {
+   "id": 200,
+   "world": 41,
+   "stage": "18-1",
+   "ingredient_1": "Strawberries",
+   "ingredient_2": "Onion",
+   "ingredient_3": "Apple",
+   "ingredient_4": "Cream Cheese",
+   "ingredient_5": "Vinegar"
+ },
+ {
+   "id": 201,
+   "world": 41,
+   "stage": "18-2",
+   "ingredient_1": "Sugar",
+   "ingredient_2": "Cress",
+   "ingredient_3": "Vine Spinach",
+   "ingredient_4": "Raspberries",
+   "ingredient_5": "Carrot"
+ },
+ {
+   "id": 202,
+   "world": 41,
+   "stage": "18-3",
+   "ingredient_1": "Cream Cheese",
+   "ingredient_2": "Fennel",
+   "ingredient_3": "Peach",
+   "ingredient_4": "Plum",
+   "ingredient_5": "Grapes"
+ },
+ {
+   "id": 203,
+   "world": 41,
+   "stage": "18-4",
+   "ingredient_1": "Strawberries",
+   "ingredient_2": "Onion",
+   "ingredient_3": "Cream Cheese",
+   "ingredient_4": "Tomato",
+   "ingredient_5": "Arugula"
+ },
+ {
+   "id": 204,
+   "world": 41,
+   "stage": "18-5",
+   "ingredient_1": "Sugar",
+   "ingredient_2": "Fennel",
+   "ingredient_3": "Blood Orange",
+   "ingredient_4": "Cocoa",
+   "ingredient_5": "Spinach"
+ },
+ {
+   "id": 205,
+   "world": 42,
+   "stage": "19-1",
+   "ingredient_1": "Strawberries",
+   "ingredient_2": "Fennel",
+   "ingredient_3": "Pomegranate",
+   "ingredient_4": "Raspberries",
+   "ingredient_5": "Vanilla Ice Cream"
+ },
+ {
+   "id": 206,
+   "world": 42,
+   "stage": "19-2",
+   "ingredient_1": "Cranberries",
+   "ingredient_2": "Black Tea Leaves",
+   "ingredient_3": "Cinnamon",
+   "ingredient_4": "Lemongrass",
+   "ingredient_5": "Strawberries"
+ },
+ {
+   "id": 207,
+   "world": 42,
+   "stage": "19-3",
+   "ingredient_1": "Strawberries",
+   "ingredient_2": "Apple",
+   "ingredient_3": "Raspberries",
+   "ingredient_4": "Watermelon",
+   "ingredient_5": "Kale"
+ },
+ {
+   "id": 208,
+   "world": 42,
+   "stage": "19-4",
+   "ingredient_1": "Chard",
+   "ingredient_2": "Lemon",
+   "ingredient_3": "Blueberries",
+   "ingredient_4": "Persimmon",
+   "ingredient_5": "Pomegranate"
+ },
+ {
+   "id": 209,
+   "world": 42,
+   "stage": "19-5",
+   "ingredient_1": "Lemon",
+   "ingredient_2": "Yogurt",
+   "ingredient_3": "Fennel",
+   "ingredient_4": "Guava",
+   "ingredient_5": "Blueberries"
+ },
+ {
+   "id": 210,
+   "world": 42,
+   "stage": "19-6",
+   "ingredient_1": "Cranberries",
+   "ingredient_2": "Basil",
+   "ingredient_3": "Cinnamon",
+   "ingredient_4": "Lemongrass",
+   "ingredient_5": "Strawberries"
+ },
+ {
+   "id": 211,
+   "world": 42,
+   "stage": "19-7",
+   "ingredient_1": "Fennel",
+   "ingredient_2": "Apple",
+   "ingredient_3": "Pomegranate",
+   "ingredient_4": "Tomato",
+   "ingredient_5": "Vanilla Ice Cream"
+ },
+ {
+   "id": 212,
+   "world": 43,
+   "stage": "20-1",
+   "ingredient_1": "Milk",
+   "ingredient_2": "Raspberries",
+   "ingredient_3": "Wheatgrass",
+   "ingredient_4": "Cinnamon",
+   "ingredient_5": "Persimmon"
+ },
+ {
+   "id": 213,
+   "world": 43,
+   "stage": "20-2",
+   "ingredient_1": "Kiwi",
+   "ingredient_2": "Pear",
+   "ingredient_3": "Green Tea Leaves",
+   "ingredient_4": "Celery",
+   "ingredient_5": "Lettuce"
+ },
+ {
+   "id": 214,
+   "world": 43,
+   "stage": "20-3",
+   "ingredient_1": "Lime",
+   "ingredient_2": "Tatsoi",
+   "ingredient_3": "Apple",
+   "ingredient_4": "Cinnamon",
+   "ingredient_5": "Tomato"
+ },
+ {
+   "id": 215,
+   "world": 43,
+   "stage": "20-4",
+   "ingredient_1": "Milk",
+   "ingredient_2": "Lettuce",
+   "ingredient_3": "Ashitaba",
+   "ingredient_4": "Cherries",
+   "ingredient_5": "Green Tea Leaves"
+ },
+ {
+   "id": 216,
+   "world": 43,
+   "stage": "20-5",
+   "ingredient_1": "Kiwi",
+   "ingredient_2": "Pear",
+   "ingredient_3": "Avocado",
+   "ingredient_4": "Cocoa",
+   "ingredient_5": "Lettuce"
+ },
+ {
+   "id": 217,
+   "world": 43,
+   "stage": "20-6",
+   "ingredient_1": "Lime",
+   "ingredient_2": "Tatsoi",
+   "ingredient_3": "Orange",
+   "ingredient_4": "Cinnamon",
+   "ingredient_5": "Papaya"
+ },
+ {
+   "id": 218,
+   "world": 44,
+   "stage": "21-1",
+   "ingredient_1": "Peach",
+   "ingredient_2": "Kiwi",
+   "ingredient_3": "Milk",
+   "ingredient_4": "Apple",
+   "ingredient_5": "Cress"
+ },
+ {
+   "id": 219,
+   "world": 44,
+   "stage": "21-2",
+   "ingredient_1": "Pear",
+   "ingredient_2": "Arugula",
+   "ingredient_3": "Celery",
+   "ingredient_4": "Lettuce",
+   "ingredient_5": "Lime"
+ },
+ {
+   "id": 220,
+   "world": 44,
+   "stage": "21-3",
+   "ingredient_1": "Watermelon",
+   "ingredient_2": "Vanilla Ice Cream",
+   "ingredient_3": "Milk",
+   "ingredient_4": "Black Tea Leaves",
+   "ingredient_5": "Spinach"
+ },
+ {
+   "id": 221,
+   "world": 44,
+   "stage": "21-4",
+   "ingredient_1": "Pear",
+   "ingredient_2": "Avocado",
+   "ingredient_3": "Persimmon",
+   "ingredient_4": "Lettuce",
+   "ingredient_5": "Lime"
+ },
+ {
+   "id": 222,
+   "world": 44,
+   "stage": "21-5",
+   "ingredient_1": "Guava",
+   "ingredient_2": "Cinnamon",
+   "ingredient_3": "Lemongrass",
+   "ingredient_4": "Apple",
+   "ingredient_5": "Kale"
+ },
+ {
+   "id": 223,
+   "world": 44,
+   "stage": "21-6",
+   "ingredient_1": "Pear",
+   "ingredient_2": "Avocado",
+   "ingredient_3": "Chard",
+   "ingredient_4": "Black Tea Leaves",
+   "ingredient_5": "Lime"
+ },
+ {
+   "id": 224,
+   "world": 45,
+   "stage": "22-1",
+   "ingredient_1": "Basil",
+   "ingredient_2": "Bananas",
+   "ingredient_3": "Tomato",
+   "ingredient_4": "Lemon",
+   "ingredient_5": "Blueberries"
+ },
+ {
+   "id": 225,
+   "world": 45,
+   "stage": "22-2",
+   "ingredient_1": "Matcha Powder",
+   "ingredient_2": "Vanilla Ice Cream",
+   "ingredient_3": "Wheatgrass",
+   "ingredient_4": "Fig",
+   "ingredient_5": "Pineapple"
+ },
+ {
+   "id": 226,
+   "world": 45,
+   "stage": "22-3",
+   "ingredient_1": "Grapefruit",
+   "ingredient_2": "Radicchio",
+   "ingredient_3": "Lavender",
+   "ingredient_4": "Mandarin Orange",
+   "ingredient_5": "Cherries"
+ },
+ {
+   "id": 227,
+   "world": 45,
+   "stage": "22-4",
+   "ingredient_1": "Ashitaba",
+   "ingredient_2": "Papaya",
+   "ingredient_3": "Tomato",
+   "ingredient_4": "Pineapple",
+   "ingredient_5": "Blueberries"
+ },
+ {
+   "id": 228,
+   "world": 45,
+   "stage": "22-5",
+   "ingredient_1": "Matcha Powder",
+   "ingredient_2": "Parsley",
+   "ingredient_3": "Cress",
+   "ingredient_4": "Fig",
+   "ingredient_5": "Mandarin Orange"
+ },
+ {
+   "id": 229,
+   "world": 45,
+   "stage": "22-6",
+   "ingredient_1": "Cocoa",
+   "ingredient_2": "Vanilla Ice Cream",
+   "ingredient_3": "Papaya",
+   "ingredient_4": "Fig",
+   "ingredient_5": "Lavender"
+ },
+ {
+   "id": 230,
+   "world": 45,
+   "stage": "22-7",
+   "ingredient_1": "Arugula",
+   "ingredient_2": "Pineapple",
+   "ingredient_3": "Tomato",
+   "ingredient_4": "Mandarin Orange",
+   "ingredient_5": "Blueberries"
+ },
+ {
+   "id": 231,
+   "world": 45,
+   "stage": "22-8",
+   "ingredient_1": "Matcha Powder",
+   "ingredient_2": "Blueberries",
+   "ingredient_3": "Spinach",
+   "ingredient_4": "Papaya",
+   "ingredient_5": "Pineapple"
+ },
+ {
+   "id": 232,
+   "world": 45,
+   "stage": "22-9",
+   "ingredient_1": "Matcha Powder",
+   "ingredient_2": "Vanilla Ice Cream",
+   "ingredient_3": "Kale",
+   "ingredient_4": "Fig",
+   "ingredient_5": "Peach"
+ },
+ {
+   "id": 233,
+   "world": 46,
+   "stage": "23-1",
+   "ingredient_1": "Chard",
+   "ingredient_2": "Basil",
+   "ingredient_3": "Mandarin Orange",
+   "ingredient_4": "Wheatgrass",
+   "ingredient_5": "Bananas"
+ },
+ {
+   "id": 234,
+   "world": 46,
+   "stage": "23-2",
+   "ingredient_1": "Ashitaba",
+   "ingredient_2": "Pink Grapefruit",
+   "ingredient_3": "Cress",
+   "ingredient_4": "Tomato",
+   "ingredient_5": "Lemon"
+ },
+ {
+   "id": 235,
+   "world": 46,
+   "stage": "23-3",
+   "ingredient_1": "Arugula",
+   "ingredient_2": "Spinach",
+   "ingredient_3": "Kale",
+   "ingredient_4": "Blueberries",
+   "ingredient_5": "Papaya"
+ },
+ {
+   "id": 236,
+   "world": 46,
+   "stage": "23-4",
+   "ingredient_1": "Chard",
+   "ingredient_2": "Basil",
+   "ingredient_3": "Pink Grapefruit",
+   "ingredient_4": "Vanilla Ice Cream",
+   "ingredient_5": "Ashitaba"
+ },
+ {
+   "id": 237,
+   "world": 46,
+   "stage": "23-5",
+   "ingredient_1": "Wheatgrass",
+   "ingredient_2": "Pink Grapefruit",
+   "ingredient_3": "Cress",
+   "ingredient_4": "Fig",
+   "ingredient_5": "Pineapple"
+ },
+ {
+   "id": 238,
+   "world": 47,
+   "stage": "1-1",
+   "ingredient_1": "Spinach",
+   "ingredient_2": "Bananas",
+   "ingredient_3": "Tomato",
+   "ingredient_4": "Lemon",
+   "ingredient_5": "Blueberries"
+ },
+ {
+   "id": 239,
+   "world": 47,
+   "stage": "1-2",
+   "ingredient_1": "Matcha Powder",
+   "ingredient_2": "Basil",
+   "ingredient_3": "Ashitaba",
+   "ingredient_4": "Fig",
+   "ingredient_5": "Peach"
+ },
+ {
+   "id": 240,
+   "world": 48,
+   "stage": "2-1",
+   "ingredient_1": "Chard",
+   "ingredient_2": "Basil",
+   "ingredient_3": "Wheatgrass",
+   "ingredient_4": "Vanilla Ice Cream",
+   "ingredient_5": "Ashitaba"
+ },
+ {
+   "id": 241,
+   "world": 48,
+   "stage": "2-2",
+   "ingredient_1": "Spinach",
+   "ingredient_2": "Bananas",
+   "ingredient_3": "Tomato",
+   "ingredient_4": "Basil",
+   "ingredient_5": "Blueberries"
+ },
+ {
+   "id": 242,
+   "world": 48,
+   "stage": "2-3",
+   "ingredient_1": "Grapes",
+   "ingredient_2": "Blueberries",
+   "ingredient_3": "Chard",
+   "ingredient_4": "Black Currants",
+   "ingredient_5": "Prunes"
+ },
+ {
+   "id": 243,
+   "world": 49,
+   "stage": "3-1",
+   "ingredient_1": "Cranberries",
+   "ingredient_2": "Ashitaba",
+   "ingredient_3": "Cinnamon",
+   "ingredient_4": "Lemongrass",
+   "ingredient_5": "Strawberries"
+ },
+ {
+   "id": 244,
+   "world": 49,
+   "stage": "3-2",
+   "ingredient_1": "Matcha Powder",
+   "ingredient_2": "Vanilla Ice Cream",
+   "ingredient_3": "Ashitaba",
+   "ingredient_4": "Fig",
+   "ingredient_5": "Peach"
+ },
+ {
+   "id": 245,
+   "world": 49,
+   "stage": "3-3",
+   "ingredient_1": "Milk",
+   "ingredient_2": "Green Tea Leaves",
+   "ingredient_3": "Carbonated Water",
+   "ingredient_4": "Onion",
+   "ingredient_5": "Cress"
+ },
+ {
+   "id": 246,
+   "world": 49,
+   "stage": "3-4",
+   "ingredient_1": "Kiwi",
+   "ingredient_2": "Pear",
+   "ingredient_3": "Avocado",
+   "ingredient_4": "Celery",
+   "ingredient_5": "Lettuce"
+ },
+ {
+   "id": 247,
+   "world": 50,
+   "stage": "4-1",
+   "ingredient_1": "Kale",
+   "ingredient_2": "Strawberries",
+   "ingredient_3": "Milk",
+   "ingredient_4": "White Sesame Seeds",
+   "ingredient_5": "Gelatin"
+ },
+ {
+   "id": 248,
+   "world": 50,
+   "stage": "4-2",
+   "ingredient_1": "Grapes",
+   "ingredient_2": "Green Tea Leaves",
+   "ingredient_3": "Bananas",
+   "ingredient_4": "Chard",
+   "ingredient_5": "Strawberries"
+ },
+ {
+   "id": 249,
+   "world": 50,
+   "stage": "4-3",
+   "ingredient_1": "Basil",
+   "ingredient_2": "Raspberries",
+   "ingredient_3": "Milk",
+   "ingredient_4": "White Sesame Seeds",
+   "ingredient_5": "Gelatin"
+ },
+ {
+   "id": 250,
+   "world": 50,
+   "stage": "4-4",
+   "ingredient_1": "Grapes",
+   "ingredient_2": "Green Tea Leaves",
+   "ingredient_3": "Bananas",
+   "ingredient_4": "Wheatgrass",
+   "ingredient_5": "Strawberries"
+ },
+ {
+   "id": 251,
+   "world": 50,
+   "stage": "4-5",
+   "ingredient_1": "Ashitaba",
+   "ingredient_2": "Raspberries",
+   "ingredient_3": "Milk",
+   "ingredient_4": "White Sesame Seeds",
+   "ingredient_5": "Gelatin"
+ },
+ {
+   "id": 252,
+   "world": 50,
+   "stage": "4-6",
+   "ingredient_1": "Grapes",
+   "ingredient_2": "Green Tea Leaves",
+   "ingredient_3": "Bananas",
+   "ingredient_4": "Cress",
+   "ingredient_5": "Raspberries"
+ },
+ {
+   "id": 253,
+   "world": 51,
+   "stage": "5-1",
+   "ingredient_1": "Arugula",
+   "ingredient_2": "Fennel",
+   "ingredient_3": "Pomegranate",
+   "ingredient_4": "Apple",
+   "ingredient_5": "Onion"
+ },
+ {
+   "id": 254,
+   "world": 51,
+   "stage": "5-2",
+   "ingredient_1": "Milk",
+   "ingredient_2": "Carrot",
+   "ingredient_3": "Spinach",
+   "ingredient_4": "Bananas",
+   "ingredient_5": "Green Tea Leaves"
+ },
+ {
+   "id": 255,
+   "world": 51,
+   "stage": "5-3",
+   "ingredient_1": "Lemon",
+   "ingredient_2": "Tomato",
+   "ingredient_3": "Fennel",
+   "ingredient_4": "Apple",
+   "ingredient_5": "White Sesame Seeds"
+ },
+ {
+   "id": 256,
+   "world": 51,
+   "stage": "5-4",
+   "ingredient_1": "Kale",
+   "ingredient_2": "Carrot",
+   "ingredient_3": "Strawberries",
+   "ingredient_4": "Grapes",
+   "ingredient_5": "Gelatin"
+ },
+ {
+   "id": 257,
+   "world": 51,
+   "stage": "5-5",
+   "ingredient_1": "Lemon",
+   "ingredient_2": "Fennel",
+   "ingredient_3": "Pomegranate",
+   "ingredient_4": "Apple",
+   "ingredient_5": "Onion"
+ },
+ {
+   "id": 258,
+   "world": 51,
+   "stage": "5-6",
+   "ingredient_1": "Chard",
+   "ingredient_2": "Carrot",
+   "ingredient_3": "Raspberries",
+   "ingredient_4": "Black Currants",
+   "ingredient_5": "Milk"
+ },
+ {
+   "id": 259,
+   "world": 51,
+   "stage": "5-7",
+   "ingredient_1": "Wheatgrass",
+   "ingredient_2": "Vine Spinach",
+   "ingredient_3": "Pomegranate",
+   "ingredient_4": "Fennel",
+   "ingredient_5": "Onion"
+ },
+ {
+   "id": 260,
+   "world": 51,
+   "stage": "5-8",
+   "ingredient_1": "Carbonated Water",
+   "ingredient_2": "Ashitaba",
+   "ingredient_3": "Strawberries",
+   "ingredient_4": "Bananas",
+   "ingredient_5": "Green Tea Leaves"
+ },
+ {
+   "id": 261,
+   "world": 53,
+   "stage": "7-1",
+   "ingredient_1": "Milk",
+   "ingredient_2": "Grapes",
+   "ingredient_3": "Carrot",
+   "ingredient_4": "Cress",
+   "ingredient_5": "Onion"
+ },
+ {
+   "id": 262,
+   "world": 53,
+   "stage": "7-2",
+   "ingredient_1": "Pumpkin",
+   "ingredient_2": "Soy Milk",
+   "ingredient_3": "Black Currants",
+   "ingredient_4": "Blueberries",
+   "ingredient_5": "Prunes"
+ },
+ {
+   "id": 263,
+   "world": 53,
+   "stage": "7-3",
+   "ingredient_1": "Raisins",
+   "ingredient_2": "Watermelon",
+   "ingredient_3": "Soy Milk",
+   "ingredient_4": "Vine Spinach",
+   "ingredient_5": "Arugula"
+ },
+ {
+   "id": 264,
+   "world": 54,
+   "stage": "8-1",
+   "ingredient_1": "Bananas",
+   "ingredient_2": "Carbonated Water",
+   "ingredient_3": "Grapes",
+   "ingredient_4": "Yogurt",
+   "ingredient_5": "Spinach"
+ },
+ {
+   "id": 265,
+   "world": 54,
+   "stage": "8-2",
+   "ingredient_1": "Vinegar",
+   "ingredient_2": "Honey",
+   "ingredient_3": "Apricot",
+   "ingredient_4": "Milk",
+   "ingredient_5": "Black Currants"
+ },
+ {
+   "id": 266,
+   "world": 54,
+   "stage": "8-3",
+   "ingredient_1": "Soy Milk",
+   "ingredient_2": "Yogurt",
+   "ingredient_3": "Vine Spinach",
+   "ingredient_4": "Blueberries",
+   "ingredient_5": "Kale"
+ },
+ {
+   "id": 267,
+   "world": 54,
+   "stage": "8-4",
+   "ingredient_1": "Vinegar",
+   "ingredient_2": "Grapes",
+   "ingredient_3": "Apricot",
+   "ingredient_4": "Carrot",
+   "ingredient_5": "Chard"
+ },
+ {
+   "id": 268,
+   "world": 54,
+   "stage": "8-5",
+   "ingredient_1": "Bananas",
+   "ingredient_2": "Carbonated Water",
+   "ingredient_3": "Apple",
+   "ingredient_4": "Black Currants",
+   "ingredient_5": "Basil"
+ },
+ {
+   "id": 269,
+   "world": 54,
+   "stage": "8-6",
+   "ingredient_1": "Vinegar",
+   "ingredient_2": "Honey",
+   "ingredient_3": "Vine Spinach",
+   "ingredient_4": "Onion",
+   "ingredient_5": "Pumpkin"
+ },
+ {
+   "id": 270,
+   "world": 55,
+   "stage": "9-1",
+   "ingredient_1": "Bananas",
+   "ingredient_2": "Wheatgrass",
+   "ingredient_3": "Guava",
+   "ingredient_4": "Yogurt",
+   "ingredient_5": "Honey"
+ },
+ {
+   "id": 271,
+   "world": 55,
+   "stage": "9-2",
+   "ingredient_1": "Mango",
+   "ingredient_2": "Papaya",
+   "ingredient_3": "Chia Seeds",
+   "ingredient_4": "Strawberries",
+   "ingredient_5": "Carbonated Water"
+ },
+ {
+   "id": 272,
+   "world": 55,
+   "stage": "9-3",
+   "ingredient_1": "Fennel",
+   "ingredient_2": "Ashitaba",
+   "ingredient_3": "Cherries",
+   "ingredient_4": "Raspberries",
+   "ingredient_5": "Papaya"
+ },
+ {
+   "id": 273,
+   "world": 55,
+   "stage": "9-4",
+   "ingredient_1": "Mango",
+   "ingredient_2": "Papaya",
+   "ingredient_3": "Chia Seeds",
+   "ingredient_4": "Orange",
+   "ingredient_5": "Strawberries"
+ },
+ {
+   "id": 274,
+   "world": 55,
+   "stage": "9-5",
+   "ingredient_1": "Raspberries",
+   "ingredient_2": "Cress",
+   "ingredient_3": "Peach",
+   "ingredient_4": "Lemon",
+   "ingredient_5": "Honey"
+ },
+ {
+   "id": 275,
+   "world": 55,
+   "stage": "9-6",
+   "ingredient_1": "Mango",
+   "ingredient_2": "Papaya",
+   "ingredient_3": "Chia Seeds",
+   "ingredient_4": "Orange",
+   "ingredient_5": "Fennel"
+ },
+ {
+   "id": 276,
+   "world": 56,
+   "stage": "10-1",
+   "ingredient_1": "Milk",
+   "ingredient_2": "Green Tea Leaves",
+   "ingredient_3": "Carbonated Water",
+   "ingredient_4": "Onion",
+   "ingredient_5": "Arugula"
+ },
+ {
+   "id": 277,
+   "world": 56,
+   "stage": "10-2",
+   "ingredient_1": "Lemon",
+   "ingredient_2": "Matcha Powder",
+   "ingredient_3": "Vanilla Ice Cream",
+   "ingredient_4": "Melon",
+   "ingredient_5": "Beefsteak Plant"
+ },
+ {
+   "id": 278,
+   "world": 57,
+   "stage": "11-1",
+   "ingredient_1": "Beefsteak Plant",
+   "ingredient_2": "Spinach",
+   "ingredient_3": "Tatsoi",
+   "ingredient_4": "Melon",
+   "ingredient_5": "Mango"
+ },
+ {
+   "id": 279,
+   "world": 57,
+   "stage": "11-2",
+   "ingredient_1": "Chard",
+   "ingredient_2": "Basil",
+   "ingredient_3": "Mint",
+   "ingredient_4": "Asparagus",
+   "ingredient_5": "Green Tea Leaves"
+ },
+ {
+   "id": 280,
+   "world": 57,
+   "stage": "11-3",
+   "ingredient_1": "Carbonated Water",
+   "ingredient_2": "Kale",
+   "ingredient_3": "Lime",
+   "ingredient_4": "Cocoa",
+   "ingredient_5": "Mango"
+ },
+ {
+   "id": 281,
+   "world": 57,
+   "stage": "11-4",
+   "ingredient_1": "Wheatgrass",
+   "ingredient_2": "Tatsoi",
+   "ingredient_3": "Mint",
+   "ingredient_4": "Asparagus",
+   "ingredient_5": "Green Tea Leaves"
+ },
+ {
+   "id": 282,
+   "world": 57,
+   "stage": "11-5",
+   "ingredient_1": "Beefsteak Plant",
+   "ingredient_2": "Ashitaba",
+   "ingredient_3": "Lime",
+   "ingredient_4": "Vinegar",
+   "ingredient_5": "Mango"
+ },
+ {
+   "id": 283,
+   "world": 57,
+   "stage": "11-6",
+   "ingredient_1": "Cress",
+   "ingredient_2": "Arugula",
+   "ingredient_3": "Mango",
+   "ingredient_4": "Asparagus",
+   "ingredient_5": "Beefsteak Plant"
+ },
+ {
+   "id": 284,
+   "world": 57,
+   "stage": "11-7",
+   "ingredient_1": "Beefsteak Plant",
+   "ingredient_2": "Spinach",
+   "ingredient_3": "Soy Milk",
+   "ingredient_4": "Vinegar",
+   "ingredient_5": "Mango"
+ },
+ {
+   "id": 285,
+   "world": 58,
+   "stage": "12-1",
+   "ingredient_1": "Milk",
+   "ingredient_2": "Pomegranate",
+   "ingredient_3": "Tatsoi",
+   "ingredient_4": "Blueberries",
+   "ingredient_5": "Apricot"
+ },
+ {
+   "id": 286,
+   "world": 58,
+   "stage": "12-2",
+   "ingredient_1": "Green Tea Leaves",
+   "ingredient_2": "Almond Milk",
+   "ingredient_3": "Sugar",
+   "ingredient_4": "Kefir Grains",
+   "ingredient_5": "Cocoa"
+ },
+ {
+   "id": 287,
+   "world": 58,
+   "stage": "12-3",
+   "ingredient_1": "Hojicha Leaves",
+   "ingredient_2": "Watermelon",
+   "ingredient_3": "Kale",
+   "ingredient_4": "Lime",
+   "ingredient_5": "Honey"
+ },
+ {
+   "id": 288,
+   "world": 58,
+   "stage": "12-4",
+   "ingredient_1": "Milk",
+   "ingredient_2": "Tatsoi",
+   "ingredient_3": "Yogurt",
+   "ingredient_4": "Blueberries",
+   "ingredient_5": "Apricot"
+ },
+ {
+   "id": 289,
+   "world": 58,
+   "stage": "12-5",
+   "ingredient_1": "Orange",
+   "ingredient_2": "Almond Milk",
+   "ingredient_3": "Green Tea Leaves",
+   "ingredient_4": "Bananas",
+   "ingredient_5": "Cocoa"
+ },
+ {
+   "id": 290,
+   "world": 58,
+   "stage": "12-6",
+   "ingredient_1": "Lime",
+   "ingredient_2": "Guava",
+   "ingredient_3": "Chard",
+   "ingredient_4": "Basil",
+   "ingredient_5": "Mint"
+ },
+ {
+   "id": 291,
+   "world": 60,
+   "stage": "14-1",
+   "ingredient_1": "Spinach",
+   "ingredient_2": "Bananas",
+   "ingredient_3": "Wheatgrass",
+   "ingredient_4": "Ashitaba",
+   "ingredient_5": "Dragon Fruit"
+ },
+ {
+   "id": 292,
+   "world": 60,
+   "stage": "14-2",
+   "ingredient_1": "Milk",
+   "ingredient_2": "Soy Milk",
+   "ingredient_3": "Honey",
+   "ingredient_4": "Tatsoi",
+   "ingredient_5": "Caramel"
+ },
+ {
+   "id": 293,
+   "world": 60,
+   "stage": "14-3",
+   "ingredient_1": "Coffee Beans",
+   "ingredient_2": "Apricot",
+   "ingredient_3": "Corn",
+   "ingredient_4": "Pineapple",
+   "ingredient_5": "Grapefruit"
+ },
+ {
+   "id": 294,
+   "world": 60,
+   "stage": "14-4",
+   "ingredient_1": "Cinnamon",
+   "ingredient_2": "Fig",
+   "ingredient_3": "Ashitaba",
+   "ingredient_4": "Bananas",
+   "ingredient_5": "Cress"
+ },
+ {
+   "id": 295,
+   "world": 60,
+   "stage": "14-5",
+   "ingredient_1": "Arugula",
+   "ingredient_2": "Dragon Fruit",
+   "ingredient_3": "Honey",
+   "ingredient_4": "Soy Milk",
+   "ingredient_5": "Black Tea Leaves"
+ },
+ {
+   "id": 296,
+   "world": 60,
+   "stage": "14-6",
+   "ingredient_1": "Cabbage",
+   "ingredient_2": "Caramel",
+   "ingredient_3": "Coffee Beans",
+   "ingredient_4": "Cherries",
+   "ingredient_5": "Corn"
+ },
+ {
+   "id": 297,
+   "world": 60,
+   "stage": "14-7",
+   "ingredient_1": "Pineapple",
+   "ingredient_2": "Grapefruit",
+   "ingredient_3": "Apricot",
+   "ingredient_4": "Ginger",
+   "ingredient_5": "Spinach"
+ },
+ {
+   "id": 298,
+   "world": 60,
+   "stage": "14-8",
+   "ingredient_1": "Bananas",
+   "ingredient_2": "Kale",
+   "ingredient_3": "Chard",
+   "ingredient_4": "Dragon Fruit",
+   "ingredient_5": "Milk"
+ },
+ {
+   "id": 299,
+   "world": 61,
+   "stage": "15-1",
+   "ingredient_1": "Honey",
+   "ingredient_2": "Black Tea Leaves",
+   "ingredient_3": "Cabbage",
+   "ingredient_4": "Caramel",
+   "ingredient_5": "Coffee Beans"
+ },
+ {
+   "id": 300,
+   "world": 61,
+   "stage": "15-2",
+   "ingredient_1": "Bananas",
+   "ingredient_2": "Apricot",
+   "ingredient_3": "Vanilla Ice Cream",
+   "ingredient_4": "Black Tea Leaves",
+   "ingredient_5": "Basil"
+ },
+ {
+   "id": 301,
+   "world": 61,
+   "stage": "15-3",
+   "ingredient_1": "Cinnamon",
+   "ingredient_2": "Peach",
+   "ingredient_3": "Ginger",
+   "ingredient_4": "Persimmon",
+   "ingredient_5": "Lemongrass"
+ },
+ {
+   "id": 302,
+   "world": 61,
+   "stage": "15-4",
+   "ingredient_1": "Pineapple",
+   "ingredient_2": "Persimmon",
+   "ingredient_3": "Apricot",
+   "ingredient_4": "Black Tea Leaves",
+   "ingredient_5": "Wheatgrass"
+ },
+ {
+   "id": 303,
+   "world": 61,
+   "stage": "15-5",
+   "ingredient_1": "Soy Milk",
+   "ingredient_2": "Honey",
+   "ingredient_3": "Cabbage",
+   "ingredient_4": "Caramel",
+   "ingredient_5": "Coffee Beans"
+ },
+ {
+   "id": 304,
+   "world": 61,
+   "stage": "15-6",
+   "ingredient_1": "Bananas",
+   "ingredient_2": "Apricot",
+   "ingredient_3": "Vanilla Ice Cream",
+   "ingredient_4": "Black Tea Leaves",
+   "ingredient_5": "Coffee Beans"
+ },
+ {
+   "id": 305,
+   "world": 61,
+   "stage": "15-7",
+   "ingredient_1": "Ashitaba",
+   "ingredient_2": "Pineapple",
+   "ingredient_3": "Ginger",
+   "ingredient_4": "Persimmon",
+   "ingredient_5": "Lemongrass"
+ },
+ {
+   "id": 306,
+   "world": 61,
+   "stage": "15-8",
+   "ingredient_1": "Watermelon",
+   "ingredient_2": "Milk",
+   "ingredient_3": "Soy Milk",
+   "ingredient_4": "Black Tea Leaves",
+   "ingredient_5": "Cabbage"
+ },
+ {
+   "id": 307,
+   "world": 62,
+   "stage": "16-1",
+   "ingredient_1": "Soy Milk",
+   "ingredient_2": "Cress",
+   "ingredient_3": "Prunes",
+   "ingredient_4": "Cranberries",
+   "ingredient_5": "Black Tea Leaves"
+ },
+ {
+   "id": 308,
+   "world": 62,
+   "stage": "16-2",
+   "ingredient_1": "Cinnamon",
+   "ingredient_2": "Black Currants",
+   "ingredient_3": "Radicchio",
+   "ingredient_4": "Lavender",
+   "ingredient_5": "Bananas"
+ },
+ {
+   "id": 309,
+   "world": 62,
+   "stage": "16-3",
+   "ingredient_1": "Soy Milk",
+   "ingredient_2": "Blueberries",
+   "ingredient_3": "Arugula",
+   "ingredient_4": "Grapes",
+   "ingredient_5": "Black Tea Leaves"
+ },
+ {
+   "id": 310,
+   "world": 62,
+   "stage": "16-4",
+   "ingredient_1": "Cinnamon",
+   "ingredient_2": "Black Currants",
+   "ingredient_3": "Radicchio",
+   "ingredient_4": "Guava",
+   "ingredient_5": "Bananas"
+ },
+ {
+   "id": 311,
+   "world": 62,
+   "stage": "16-5",
+   "ingredient_1": "Soy Milk",
+   "ingredient_2": "Spinach",
+   "ingredient_3": "Prunes",
+   "ingredient_4": "Vine Spinach",
+   "ingredient_5": "Black Tea Leaves"
+ },
+ {
+   "id": 312,
+   "world": 62,
+   "stage": "16-6",
+   "ingredient_1": "Cinnamon",
+   "ingredient_2": "Grapes",
+   "ingredient_3": "Radicchio",
+   "ingredient_4": "Lavender",
+   "ingredient_5": "Bananas"
+ },
+ {
+   "id": 313,
+   "world": 62,
+   "stage": "16-7",
+   "ingredient_1": "Soy Milk",
+   "ingredient_2": "Blueberries",
+   "ingredient_3": "Vine Spinach",
+   "ingredient_4": "Kale",
+   "ingredient_5": "Black Tea Leaves"
+ },
+ {
+   "id": 314,
+   "world": 63,
+   "stage": "17-1",
+   "ingredient_1": "Grapes",
+   "ingredient_2": "Chard",
+   "ingredient_3": "Raisins",
+   "ingredient_4": "Vanilla Ice Cream",
+   "ingredient_5": "Black Currants"
+ },
+ {
+   "id": 315,
+   "world": 63,
+   "stage": "17-2",
+   "ingredient_1": "Persimmon",
+   "ingredient_2": "Vine Spinach",
+   "ingredient_3": "Cherries",
+   "ingredient_4": "Radicchio",
+   "ingredient_5": "Basil"
+ },
+ {
+   "id": 316,
+   "world": 63,
+   "stage": "17-3",
+   "ingredient_1": "Grapes",
+   "ingredient_2": "Blueberries",
+   "ingredient_3": "Raisins",
+   "ingredient_4": "Black Currants",
+   "ingredient_5": "Prunes"
+ },
+ {
+   "id": 317,
+   "world": 63,
+   "stage": "17-4",
+   "ingredient_1": "Black Tea Leaves",
+   "ingredient_2": "Wheatgrass",
+   "ingredient_3": "Lemongrass",
+   "ingredient_4": "Radicchio",
+   "ingredient_5": "Vine Spinach"
+ },
+ {
+   "id": 318,
+   "world": 63,
+   "stage": "17-5",
+   "ingredient_1": "Grapes",
+   "ingredient_2": "Blueberries",
+   "ingredient_3": "Ashitaba",
+   "ingredient_4": "Vanilla Ice Cream",
+   "ingredient_5": "Cranberries"
+ },
+ {
+   "id": 319,
+   "world": 64,
+   "stage": "18-1",
+   "ingredient_1": "Strawberries",
+   "ingredient_2": "Onion",
+   "ingredient_3": "Apple",
+   "ingredient_4": "Cream Cheese",
+   "ingredient_5": "Vinegar"
+ },
+ {
+   "id": 320,
+   "world": 64,
+   "stage": "18-2",
+   "ingredient_1": "Sugar",
+   "ingredient_2": "Cress",
+   "ingredient_3": "Vine Spinach",
+   "ingredient_4": "Raspberries",
+   "ingredient_5": "Carrot"
+ },
+ {
+   "id": 321,
+   "world": 64,
+   "stage": "18-3",
+   "ingredient_1": "Cream Cheese",
+   "ingredient_2": "Fennel",
+   "ingredient_3": "Peach",
+   "ingredient_4": "Plum",
+   "ingredient_5": "Grapes"
+ },
+ {
+   "id": 322,
+   "world": 64,
+   "stage": "18-4",
+   "ingredient_1": "Strawberries",
+   "ingredient_2": "Onion",
+   "ingredient_3": "Cream Cheese",
+   "ingredient_4": "Tomato",
+   "ingredient_5": "Arugula"
+ },
+ {
+   "id": 323,
+   "world": 64,
+   "stage": "18-5",
+   "ingredient_1": "Sugar",
+   "ingredient_2": "Fennel",
+   "ingredient_3": "Blood Orange",
+   "ingredient_4": "Cocoa",
+   "ingredient_5": "Spinach"
+ },
+ {
+   "id": 324,
+   "world": 65,
+   "stage": "19-1",
+   "ingredient_1": "Strawberries",
+   "ingredient_2": "Fennel",
+   "ingredient_3": "Pomegranate",
+   "ingredient_4": "Raspberries",
+   "ingredient_5": "Vanilla Ice Cream"
+ },
+ {
+   "id": 325,
+   "world": 65,
+   "stage": "19-2",
+   "ingredient_1": "Cranberries",
+   "ingredient_2": "Black Tea Leaves",
+   "ingredient_3": "Cinnamon",
+   "ingredient_4": "Lemongrass",
+   "ingredient_5": "Strawberries"
+ },
+ {
+   "id": 326,
+   "world": 65,
+   "stage": "19-3",
+   "ingredient_1": "Strawberries",
+   "ingredient_2": "Apple",
+   "ingredient_3": "Raspberries",
+   "ingredient_4": "Watermelon",
+   "ingredient_5": "Kale"
+ },
+ {
+   "id": 327,
+   "world": 65,
+   "stage": "19-4",
+   "ingredient_1": "Chard",
+   "ingredient_2": "Lemon",
+   "ingredient_3": "Blueberries",
+   "ingredient_4": "Persimmon",
+   "ingredient_5": "Pomegranate"
+ },
+ {
+   "id": 328,
+   "world": 65,
+   "stage": "19-5",
+   "ingredient_1": "Lemon",
+   "ingredient_2": "Yogurt",
+   "ingredient_3": "Fennel",
+   "ingredient_4": "Guava",
+   "ingredient_5": "Blueberries"
+ },
+ {
+   "id": 329,
+   "world": 65,
+   "stage": "19-6",
+   "ingredient_1": "Cranberries",
+   "ingredient_2": "Basil",
+   "ingredient_3": "Cinnamon",
+   "ingredient_4": "Lemongrass",
+   "ingredient_5": "Strawberries"
+ },
+ {
+   "id": 330,
+   "world": 65,
+   "stage": "19-7",
+   "ingredient_1": "Fennel",
+   "ingredient_2": "Apple",
+   "ingredient_3": "Pomegranate",
+   "ingredient_4": "Tomato",
+   "ingredient_5": "Vanilla Ice Cream"
+ },
+ {
+   "id": 331,
+   "world": 66,
+   "stage": "20-1",
+   "ingredient_1": "Milk",
+   "ingredient_2": "Raspberries",
+   "ingredient_3": "Wheatgrass",
+   "ingredient_4": "Cinnamon",
+   "ingredient_5": "Persimmon"
+ },
+ {
+   "id": 332,
+   "world": 66,
+   "stage": "20-2",
+   "ingredient_1": "Kiwi",
+   "ingredient_2": "Pear",
+   "ingredient_3": "Green Tea Leaves",
+   "ingredient_4": "Celery",
+   "ingredient_5": "Lettuce"
+ },
+ {
+   "id": 333,
+   "world": 66,
+   "stage": "20-3",
+   "ingredient_1": "Lime",
+   "ingredient_2": "Tatsoi",
+   "ingredient_3": "Apple",
+   "ingredient_4": "Cinnamon",
+   "ingredient_5": "Tomato"
+ },
+ {
+   "id": 334,
+   "world": 66,
+   "stage": "20-4",
+   "ingredient_1": "Milk",
+   "ingredient_2": "Lettuce",
+   "ingredient_3": "Ashitaba",
+   "ingredient_4": "Cherries",
+   "ingredient_5": "Green Tea Leaves"
+ },
+ {
+   "id": 335,
+   "world": 66,
+   "stage": "20-5",
+   "ingredient_1": "Kiwi",
+   "ingredient_2": "Pear",
+   "ingredient_3": "Avocado",
+   "ingredient_4": "Cocoa",
+   "ingredient_5": "Lettuce"
+ },
+ {
+   "id": 336,
+   "world": 66,
+   "stage": "20-6",
+   "ingredient_1": "Lime",
+   "ingredient_2": "Tatsoi",
+   "ingredient_3": "Orange",
+   "ingredient_4": "Cinnamon",
+   "ingredient_5": "Papaya"
+ },
+ {
+   "id": 337,
+   "world": 67,
+   "stage": "21-1",
+   "ingredient_1": "Peach",
+   "ingredient_2": "Kiwi",
+   "ingredient_3": "Milk",
+   "ingredient_4": "Apple",
+   "ingredient_5": "Cress"
+ },
+ {
+   "id": 338,
+   "world": 67,
+   "stage": "21-2",
+   "ingredient_1": "Pear",
+   "ingredient_2": "Arugula",
+   "ingredient_3": "Celery",
+   "ingredient_4": "Lettuce",
+   "ingredient_5": "Lime"
+ },
+ {
+   "id": 339,
+   "world": 67,
+   "stage": "21-3",
+   "ingredient_1": "Watermelon",
+   "ingredient_2": "Vanilla Ice Cream",
+   "ingredient_3": "Milk",
+   "ingredient_4": "Black Tea Leaves",
+   "ingredient_5": "Spinach"
+ },
+ {
+   "id": 340,
+   "world": 67,
+   "stage": "21-4",
+   "ingredient_1": "Pear",
+   "ingredient_2": "Avocado",
+   "ingredient_3": "Persimmon",
+   "ingredient_4": "Lettuce",
+   "ingredient_5": "Lime"
+ },
+ {
+   "id": 341,
+   "world": 67,
+   "stage": "21-5",
+   "ingredient_1": "Guava",
+   "ingredient_2": "Cinnamon",
+   "ingredient_3": "Lemongrass",
+   "ingredient_4": "Apple",
+   "ingredient_5": "Kale"
+ },
+ {
+   "id": 342,
+   "world": 67,
+   "stage": "21-6",
+   "ingredient_1": "Pear",
+   "ingredient_2": "Avocado",
+   "ingredient_3": "Chard",
+   "ingredient_4": "Black Tea Leaves",
+   "ingredient_5": "Lime"
+ },
+ {
+   "id": 343,
+   "world": 68,
+   "stage": "22-1",
+   "ingredient_1": "Basil",
+   "ingredient_2": "Bananas",
+   "ingredient_3": "Tomato",
+   "ingredient_4": "Lemon",
+   "ingredient_5": "Blueberries"
+ },
+ {
+   "id": 344,
+   "world": 68,
+   "stage": "22-2",
+   "ingredient_1": "Matcha Powder",
+   "ingredient_2": "Vanilla Ice Cream",
+   "ingredient_3": "Wheatgrass",
+   "ingredient_4": "Fig",
+   "ingredient_5": "Pineapple"
+ },
+ {
+   "id": 345,
+   "world": 68,
+   "stage": "22-3",
+   "ingredient_1": "Grapefruit",
+   "ingredient_2": "Radicchio",
+   "ingredient_3": "Lavender",
+   "ingredient_4": "Mandarin Orange",
+   "ingredient_5": "Cherries"
+ },
+ {
+   "id": 346,
+   "world": 68,
+   "stage": "22-4",
+   "ingredient_1": "Ashitaba",
+   "ingredient_2": "Papaya",
+   "ingredient_3": "Tomato",
+   "ingredient_4": "Pineapple",
+   "ingredient_5": "Blueberries"
+ },
+ {
+   "id": 347,
+   "world": 68,
+   "stage": "22-5",
+   "ingredient_1": "Matcha Powder",
+   "ingredient_2": "Parsley",
+   "ingredient_3": "Cress",
+   "ingredient_4": "Fig",
+   "ingredient_5": "Mandarin Orange"
+ },
+ {
+   "id": 348,
+   "world": 68,
+   "stage": "22-6",
+   "ingredient_1": "Cocoa",
+   "ingredient_2": "Vanilla Ice Cream",
+   "ingredient_3": "Papaya",
+   "ingredient_4": "Fig",
+   "ingredient_5": "Lavender"
+ },
+ {
+   "id": 349,
+   "world": 68,
+   "stage": "22-7",
+   "ingredient_1": "Arugula",
+   "ingredient_2": "Pineapple",
+   "ingredient_3": "Tomato",
+   "ingredient_4": "Mandarin Orange",
+   "ingredient_5": "Blueberries"
+ },
+ {
+   "id": 350,
+   "world": 68,
+   "stage": "22-8",
+   "ingredient_1": "Matcha Powder",
+   "ingredient_2": "Blueberries",
+   "ingredient_3": "Spinach",
+   "ingredient_4": "Papaya",
+   "ingredient_5": "Pineapple"
+ },
+ {
+   "id": 351,
+   "world": 68,
+   "stage": "22-9",
+   "ingredient_1": "Matcha Powder",
+   "ingredient_2": "Vanilla Ice Cream",
+   "ingredient_3": "Kale",
+   "ingredient_4": "Fig",
+   "ingredient_5": "Peach"
+ },
+ {
+   "id": 352,
+   "world": 69,
+   "stage": "23-1",
+   "ingredient_1": "Chard",
+   "ingredient_2": "Basil",
+   "ingredient_3": "Mandarin Orange",
+   "ingredient_4": "Wheatgrass",
+   "ingredient_5": "Bananas"
+ },
+ {
+   "id": 353,
+   "world": 69,
+   "stage": "23-2",
+   "ingredient_1": "Ashitaba",
+   "ingredient_2": "Pink Grapefruit",
+   "ingredient_3": "Cress",
+   "ingredient_4": "Tomato",
+   "ingredient_5": "Lemon"
+ },
+ {
+   "id": 354,
+   "world": 69,
+   "stage": "23-3",
+   "ingredient_1": "Arugula",
+   "ingredient_2": "Spinach",
+   "ingredient_3": "Kale",
+   "ingredient_4": "Blueberries",
+   "ingredient_5": "Papaya"
+ },
+ {
+   "id": 355,
+   "world": 69,
+   "stage": "23-4",
+   "ingredient_1": "Chard",
+   "ingredient_2": "Basil",
+   "ingredient_3": "Pink Grapefruit",
+   "ingredient_4": "Vanilla Ice Cream",
+   "ingredient_5": "Ashitaba"
+ },
+ {
+   "id": 356,
+   "world": 69,
+   "stage": "23-5",
+   "ingredient_1": "Wheatgrass",
+   "ingredient_2": "Pink Grapefruit",
+   "ingredient_3": "Cress",
+   "ingredient_4": "Fig",
+   "ingredient_5": "Pineapple"
+ }
+]
